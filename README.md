@@ -1,7 +1,7 @@
 # nlp-kreyol-resources
 List of useful resources (dictionaries, corpora, papers, models, etc.) to work on NLP for french-based Caribbean creoles and similar creole languages
 
-## Datasets
+## Datasets :open_file_folder:
 ### Ready-to-use
 Open source annotated corpora.
 
@@ -10,7 +10,11 @@ Open source annotated corpora.
 
 * **Tatoeba** [[link](https://tatoeba.org/fr/sentences/show_all_in/gcf/und)]
 
-    2 123 sentences in Guadeloupean creole with translations for some (English, French). 
+    2 123 sentences in Guadeloupean creole with translations for some (English, French).
+
+* **Kréyolad** [[link](https://www.potomitan.info/duranty/kreyolad.php)]
+
+    All contributions of Jude Duranty to the newspaper Antilla from 2004 to 2023
 
 #### > Oral
 
@@ -26,7 +30,6 @@ Open source annotated corpora.
 
 Tracking unreleased corpora.
 
-
 * Data for **Noun Phrases in mixed Martinican Creole and French: Evidence for an Underspecified Language Model**
 
     *Christelle Lengrai, Juliette Moustin, Pascal Vaillant*
@@ -35,8 +38,14 @@ Tracking unreleased corpora.
 
     2016
 
+* Data for **How to Parse a Creole: When Martinican Creole Meets French**
+ 
+    Martinican creole tree bank: 240 fully annotated sentences. Not publicly available.
 
-## Models
+    2022
+
+
+## Models :chart_with_upwards_trend:
 
 * **Guadeloupean Creole Language Identification Tool** [[link](https://gitlab.com/williamsotomartinez/gclit/)]
 
@@ -50,6 +59,60 @@ Tracking unreleased corpora.
 
 
 ## Papers :page_with_curl:
+
+### Building Datasets & Corpora
+    
+#### French-based
+
+* **Case Study on Data Collection of Kreol Morisien, a Low-Resourced Creole Language** [[link](https://ieeexplore.ieee.org/document/9845658)]
+
+   *David Joshen Bastien, Vijay Prakash Chumroo, Johan Patrice Bastien*
+
+    2022, IST-Africa Conference
+
+* **MorisienMT: A Dataset for Mauritian Creole Machine Translation** [[paper](https://arxiv.org/abs/2206.02421), [dataset](https://huggingface.co/datasets/prajdabre/KreolMorisienMT)]
+
+    *Raj Dabre, Aneerav Sukhoo*
+
+    2022
+  
+#### Others
+
+  * **JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset** [[link](https://arxiv.org/abs/2212.03419)]
+
+    *Ruth-Ann Armstrong, John Hewitt, Christopher Manning*
+
+    2022
+
+### Classification
+
+#### French-based 
+
+* **Language Identification of Guadeloupean Creole** [[link](https://hal.science/hal-03047144/document)]
+
+  *William Soto*
+
+  2020
+
+### POS Tagging 
+
+* **How to Parse a Creole: When Martinican Creole Meets French** [[link](https://aclanthology.org/2022.coling-1.387.pdf)]
+
+    *Ludovic Mompelat, Daniel Dakota, Sandra Kübler*
+
+    2022
+
+### Translation 
+
+#### French-based 
+
+* **Kreol Morisien to English and English to Kreol Morisien Translation System using Attention and Transformer Model**
+
+    *Zaheenah Boodeea, Sameerchand Pudaruth* [[link](https://journal.uob.edu.bh/bitstream/handle/123456789/3918/paper%2012.pdf)]
+
+    2020
+
+#### Others
 
 ### General 
 
@@ -77,56 +140,10 @@ Tracking unreleased corpora.
 
   2023
 
-### Building Datasets & Corpora
-    
-#### > French-based
-
-* **Case Study on Data Collection of Kreol Morisien, a Low-Resourced Creole Language** [[link](https://ieeexplore.ieee.org/document/9845658)]
-
-   *David Joshen Bastien, Vijay Prakash Chumroo, Johan Patrice Bastien*
-
-    2022, IST-Africa Conference
-
-* **MorisienMT: A Dataset for Mauritian Creole Machine Translation** [[paper](https://arxiv.org/abs/2206.02421), [dataset](https://huggingface.co/datasets/prajdabre/KreolMorisienMT)]
-
-    *Raj Dabre, Aneerav Sukhoo*
-
-    2022
-  
-#### > Others
-
-  * **JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset** [[link](https://arxiv.org/abs/2212.03419)]
-
-    *Ruth-Ann Armstrong, John Hewitt, Christopher Manning*
-
-    2022
-
-### Classification
-
-#### > French-based 
-
-* **Language Identification of Guadeloupean Creole** [[link](https://hal.science/hal-03047144/document)]
-
-  *William Soto*
-
-  2020
-
-### Translation 
-
-#### > French-based 
-
-* **Kreol Morisien to English and English to Kreol Morisien Translation System using Attention and Transformer Model**
-
-    *Zaheenah Boodeea, Sameerchand Pudaruth* [[link](https://journal.uob.edu.bh/bitstream/handle/123456789/3918/paper%2012.pdf)]
-
-    2020
-
-#### > Others
-
 
 ### Other
 
-* **Une grammaire formelle du créole martiniquais pour la génération automatique**[[link](https://aclanthology.org/2003.jeptalnrecital-long.24)]
+* **Une grammaire formelle du créole martiniquais pour la génération automatique** [[link](https://aclanthology.org/2003.jeptalnrecital-long.24)]
 
   Pascal Vaillant
 
