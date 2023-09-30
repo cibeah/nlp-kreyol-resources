@@ -47,17 +47,27 @@ Tracking unreleased corpora.
 
 ## Models :chart_with_upwards_trend:
 
+### Classification
+
 * **Guadeloupean Creole Language Identification Tool** [[link](https://gitlab.com/williamsotomartinez/gclit/)]
 
     2020, William Soto
 
+### Translation
 * **CreoleM2M** [[link](https://huggingface.co/prajdabre/CreoleM2M)]
 
     2023, Raj Dabre
 
     Multilingual translation model built with HuggingFace. Support for 26 creoles including **Saint Lucian, Seychellois, Mauritian, Haitian** creoles. Online playground available [here](https://huggingface.co/spaces/prajdabre/CreoleM2M).
 
-
+### Speech Recognition & Query 
+    
+* **ASR + Query-by-Example** [[link](https://github.com/macairececile/ASR-QbE-creole)]
+    
+    2022, Cécile Macaire et al
+   
+   **Guadeloupean and Mauritian creole**. Goal: design linguistic tools for language documentation 
+  
 ## Papers :page_with_curl:
 
 ### Building Datasets & Corpora
@@ -88,7 +98,7 @@ Tracking unreleased corpora.
 
 #### French-based 
 
-* **Language Identification of Guadeloupean Creole** [[link](https://hal.science/hal-03047144/document)]
+* **Language Identification of Guadeloupean Creole** [[paper](https://hal.science/hal-03047144/document), [code](https://gitlab.com/williamsotomartinez/gclit/)]
 
   *William Soto*
 
@@ -106,11 +116,21 @@ Tracking unreleased corpora.
 
 #### French-based 
 
-* **Kreol Morisien to English and English to Kreol Morisien Translation System using Attention and Transformer Model**
+* **Kreol Morisien to English and English to Kreol Morisien Translation System using Attention and Transformer Model** [[link](https://journal.uob.edu.bh/bitstream/handle/123456789/3918/paper%2012.pdf)]
 
-    *Zaheenah Boodeea, Sameerchand Pudaruth* [[link](https://journal.uob.edu.bh/bitstream/handle/123456789/3918/paper%2012.pdf)]
+    *Zaheenah Boodeea, Sameerchand Pudaruth* 
 
     2020
+
+### Speech Recognition
+
+* **Automatic Speech Recognition and Query By Example for Creole Languages Documentation** [[link](https://hal.science/hal-03625303/document), [code](https://github.com/macairececile/ASR-QbE-creole)]
+
+    *Cécile Macaire, Didier Schwab, Benjamin Lecouteux, Emmanuel Schang*
+
+    2022
+
+    Guadeloupean & Mauritian Creoles
 
 #### Others
 
