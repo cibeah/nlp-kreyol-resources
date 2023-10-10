@@ -93,6 +93,12 @@ Tracking unreleased corpora.
     *Raj Dabre, Aneerav Sukhoo*
 
     2022
+
+* **Krik: First Steps into Crowdsourcing POS tags for Kréyòl Gwadloupéyen** [[link](https://hal.science/hal-01790617)]
+
+   *Alice Millour, Karën Fort*
+
+  2018
   
 #### Others
 
@@ -113,6 +119,12 @@ Tracking unreleased corpora.
   2020
 
 ### POS Tagging 
+
+* **Krik: First Steps into Crowdsourcing POS tags for Kréyòl Gwadloupéyen** [[link](https://hal.science/hal-01790617)]
+
+   *Alice Millour, Karën Fort*
+
+  2018
 
 * **How to Parse a Creole: When Martinican Creole Meets French** [[link](https://aclanthology.org/2022.coling-1.387.pdf)]
 
