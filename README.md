@@ -26,6 +26,14 @@ Open source annotated corpora.
 
   3 hours of oral data, spontaneously spoken MQ & GP creole, with transcriptions and french translations. Not open source but is (partially ?) available here (with no annotations ?) [[link](https://cocoon.huma-num.fr/exist/crdo/search2.xql?page=1&max=500&lang=fr&nonce=MTcyODE4Mg%3D%3D&language=http%3A%2F%2Flexvo.org%2Fid%2Fiso639-3%2Fgcf), 19 audio records]
 
+* **Pawolotek** [[link](https://pawolotek.com/index.php/podcast-category/extraits/)]
+
+  *Simone Lagrand, "Titak - Panorama sonore du parler martiniquais"*
+
+  2022
+
+  45 short audio files in Martinican creole (a few seconds/minutes long) recorded in Martinique.
+
 #### > Unrealeased
 
 Tracking unreleased corpora.
