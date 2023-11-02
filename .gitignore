@@ -1,0 +1,2 @@
+*.tsv
+datasets/tatoeba/sentences/link/*
