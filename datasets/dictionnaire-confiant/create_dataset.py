@@ -2,12 +2,13 @@ import re
 
 import pandas as pd
 import pdfplumber
-from pypdf import PdfReader
 
 path = "PATH_TO_PDF"
 
-SOURCE_PATTERN = '(.+) \((.+), (.+)\)'
-INDICATORS = ["var.", "syn.", "exp.", "pvb.", "gwd.", "Dictionnaire"]
+INDICATORS = ["var.", "syn.", "exp.", "pvb.", "gwd.", "Dictionnaire", ". (arch.)"]
+SOURCE_PATTERN = '(.+) ?\((.+), (.+)\)'
+SOURCE_PATTERN_1 = '(.+) ?\((.+) (.+)\)'
+ZOOMIN_SOURCE_PATTERN = '\((.+), (.+)\)'
 
 def is_a_bold_letter(char):
     is_a_letter = char["text"].isalpha()
@@ -63,15 +64,33 @@ with pdfplumber.open(path) as pdf:
             if page_data[i]["is_example"]:
                 line, next_line = page_data[i], page_data[i+1]
                 if not (next_line["is_bold"] | (num_words<2)):
+                    # Look for a source
                     text, author, source = line["text"], None, None
+                    translation = next_line["text"]
                     result = re.search(SOURCE_PATTERN, text)
                     if result is not None:
                         text = result.group(1).strip(' "')
                         author = result.group(2).strip()
                         source = result.group(3).strip()
+                    else:
+                        # Look for source with slightly different pattern
+                        result = re.search(SOURCE_PATTERN_1, text)
+                        if result is not None:
+                            text = result.group(1).strip(' "')
+                            author = result.group(2).strip()
+                            source = result.group(3).strip()
+                        # If there is still no source, it might be on the next line
+                        # the translation should then be on the line after
+                        elif (i+2 < len(page_data)) and not (page_data[i+2]["is_bold"]):
+                            result = re.search(ZOOMIN_SOURCE_PATTERN, next_line["text"])
+                            if result is not None:
+                                author = result.group(1).strip()
+                                source = result.group(2).strip()
+                                translation = page_data[i+2]["text"]
+
                     data.append({
                             "text": text,
-                            "translation": next_line["text"],
+                            "translation": translation,
                             "num_words": line["num_words"],
                             "author": author,
                             "source": source,
@@ -81,4 +100,4 @@ with pdfplumber.open(path) as pdf:
                     )
 
 # Create DataFrame and save as csv
-pd.DataFrame(data).to_csv("confiant_examples.csv", index=False)
+pd.DataFrame(data).to_csv("datasets/dictionnaire-confiant/confiant_mqc.csv", index=False)
