@@ -5,7 +5,7 @@ import pdfplumber
 
 path = "PATH_TO_PDF"
 
-INDICATORS = ["var.", "syn.", "exp.", "pvb.", "gwd.", "Dictionnaire", ". (arch.)"]
+INDICATORS = ["var.", "syn.", "exp.", "pvb.", "gwd.", "Dictionnaire", "arch.", "esp.", "ang.", "cit.", "it."]
 SOURCE_PATTERN = '(.+) ?\((.+), (.+)\)'
 SOURCE_PATTERN_1 = '(.+) ?\((.+) (.+)\)'
 ZOOMIN_SOURCE_PATTERN = '\((.+), (.+)\)'
@@ -20,7 +20,7 @@ def is_indicator(word):
     """
     Check whether word is indicator
     """
-    return word in INDICATORS
+    return word.strip(" ();") in INDICATORS
 
 data = []
 with pdfplumber.open(path) as pdf:
@@ -36,7 +36,7 @@ with pdfplumber.open(path) as pdf:
                 text = "".join(char_aggreg).strip()
                 words = text.split(" ")
                 num_words = len(words)
-                has_indicator = is_indicator(words[0])
+                has_indicator = any([is_indicator(word) for word in words])
                 page_data.append({
                     "id": id_data,
                     "text": text,
@@ -63,10 +63,19 @@ with pdfplumber.open(path) as pdf:
         for i in range(len(page_data)-1):
             if page_data[i]["is_example"]:
                 line, next_line = page_data[i], page_data[i+1]
-                if not (next_line["is_bold"] | (num_words<2)):
-                    # Look for a source
+                if not (next_line["is_bold"] | (next_line["num_words"]<2)):
                     text, author, source = line["text"], None, None
                     translation = next_line["text"]
+                    # If the previous line was also an example, consider
+                    # it a single example
+                    if (i > 1) and (page_data[i-1]["is_example"]):
+                        text = page_data[i-1]["text"] + " " + text
+                        # and assume the translation might also be
+                        # on 2 lines (maybe not optimal)
+                        if (i+2 < len(page_data)) and not (page_data[i+2]["is_bold"]):
+                            translation = translation + page_data[i+2]["text"]
+
+                    # Look for a source
                     result = re.search(SOURCE_PATTERN, text)
                     if result is not None:
                         text = result.group(1).strip(' "')
@@ -81,6 +90,8 @@ with pdfplumber.open(path) as pdf:
                             source = result.group(3).strip()
                         # If there is still no source, it might be on the next line
                         # the translation should then be on the line after
+                        # Breaks if an example takes on two FULL lines with the source on a
+                        # third line, but this should not happen
                         elif (i+2 < len(page_data)) and not (page_data[i+2]["is_bold"]):
                             result = re.search(ZOOMIN_SOURCE_PATTERN, next_line["text"])
                             if result is not None:
