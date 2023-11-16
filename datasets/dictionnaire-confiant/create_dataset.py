@@ -5,10 +5,23 @@ import pdfplumber
 
 path = "PATH_TO_PDF"
 
-INDICATORS = ["var.", "syn.", "exp.", "pvb.", "gwd.", "Dictionnaire", "arch.", "esp.", "ang.", "cit.", "it."]
+
+# List of all abbreviations found on https://www.potomitan.info/dictionnaire/dico4.php
+# + others found in the documents and "Dictionnaire" to remove the headers/lowers
+INDICATORS = [
+    "afr.","ang.","arch.","arg.", "ayt.", 
+    "car.","cit.","dom.","enf.","esp.","exp.", 
+    "fém.", "f. r.", "f.r.a.","gwd","guy.",
+    "iron.","lit.","masc.", "mél.", "n. sc.", 
+    "néol.","on.", "péj.","pvb.","r.", "st-l.",
+    "syn.","tam.","var.",
+    "Dictionnaire", "sue.", "port."
+]
+
 SOURCE_PATTERN = '(.+) ?\((.+), (.+)\)'
 SOURCE_PATTERN_1 = '(.+) ?\((.+) (.+)\)'
 ZOOMIN_SOURCE_PATTERN = '\((.+), (.+)\)'
+CHARACTER_HEIGHT = 10
 
 def is_a_bold_letter(char):
     is_a_letter = char["text"].isalpha()
@@ -31,7 +44,8 @@ with pdfplumber.open(path) as pdf:
         has_bold_letters = False
         id_data = 0
         for char in page.chars:
-            if (char["y0"] < last_line_y - last_line_height/2) or (char["y0"] > last_line_y + last_line_height/2):
+            # if (char["y0"] < last_line_y - last_line_height/2) or (char["y0"] > last_line_y + last_line_height/2):
+            if (char["y0"] < last_line_y - CHARACTER_HEIGHT) or (char["y0"] > last_line_y + CHARACTER_HEIGHT):
                 # If last line had bold chars, add it as an extracted sentence
                 text = "".join(char_aggreg).strip()
                 words = text.split(" ")
