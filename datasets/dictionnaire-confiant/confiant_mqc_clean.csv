@@ -3,7 +3,7 @@ text,translation,num_words,author,source,page,line
 Ou ja touvé kay-la ou té ka chaché a ?,As-tu déjà trouvé la maison que tu cherchais ?,13,J. Florentiny,Dod.,1,19
 Ou a viré rann li dan lizin-la.,Tu le lui rendras dans l'usine.,10,G. Gratiant,F.K.Z.,1,23
 A pié nou bay désann.,Nous descendîmes à pied.,8,T. Léotin,A.T.Z.,1,27
-. Kon sé kanmarad-li a té ka fè a.,Comme faisaient ses camarades.,11,R.Confiant,K.Y.,1,30
+Kon sé kanmarad-li a té ka fè a.,Comme faisaient ses camarades.,11,R.Confiant,K.Y.,1,30
 Ni dot ki ka kriyé : aba si ! aba sa !,Il y en a d'autres qui crient : à bas ceci ! à bas cela !,15,G. Gratiant,F.K.Z.,1,34
 "Ou pa lé di mwen ababa, an ?","Je suis idiot peut-être, hein ?",11,G. Mauvois,M.M.,1,38
 Man ababa di pasians-ou.,Je suis stupéfait de ta patience.,8,G. Mauvois,D. J.,1,44
@@ -38,7 +38,6 @@ Yo ka abriti moun épi anlo flim méritjen.,On abrutit les gens avec des tas de 
 Fok pa rété abriti douvan pies kri malfini.,Il ne faut pas rester abruti devant le moindre cri de mensfenil.,11,M. Lebielle,F.N.,4,31
 Fok nou ké absoliman ritouvé yich-tala.,Il faudra que nous retrouvions absolument cet enfant.,10,H. Bartéléry,T. A.,4,37
 Mwen ka aché chimen limiè-ya.,Je cherche le chemin de la lumière.,8,Joby Bernabé,Konm.,4,45
-"personnages, Achikaman et Soupanaye.","« Il s’agissait de deux pauvres hères, ouvriers agricoles, qui, trop misérables pour avoir une femme, vivaient en « matelotage » dans une pauvre case. L’un, Akachiman, était le plus souvent",4,,,4,50
 Adan achouvalman sé flech sann lan.,Dans le chevauchement des flèches cendrées,8,Monchoachi,Nst.,5,15
 Ou sonjé achté wiski ?,Tu as pensé à acheter du whisky ?,8,G. Mauvois,M.M.,5,19
 Yo tout la débantjé twop pou achté goumen-taa.,Ils sont tous trop à court d’argent pour pouvoir relever ce défi.,11,R. Confiant,Bitak.,5,23
@@ -169,7 +168,7 @@ Men ou té pwan sa alafet.,Mais tu avais pris cela à la plaisanterie.,9,R. Conf
 Sé yon jé tout moun ka ranjé alafil.,C’est un jeu dans lequel tout le monde se range en file indienne.,11,F. Marbot,Bamb.,16,51
 Pézay-tala ka pèmet kontwolé tout bagay ka woulé alaflouz.,Cette pesée permet de contrôler que tout se déroule sans anicroches.,15,J. Etienne,Trib. Ant. n° 47,16,55
 Ou ka batjé alavolé pou débatjé alaglisé.,Tu t’embarques au vol pour débarquer en glissade.,9,Monchoachi,B.B.Z.,17,7
-Man pa ni an mayengwen maré alakod kon ou ka wè mwen laa.,Je n’ai même pas un moustique en laisse tel que tu me vois. (Je ne possède pas un sou vaillant).,16,R. Confiant,Bitak.,17,13
+Man pa ni an mayengwen maré alakod kon ou ka wè mwen laa.,Je n’ai même pas un moustique en laisse tel que tu me vois.,16,R. Confiant,Bitak.,17,13
 "Chouval jòn, jòn kon alamanda dan an liziè.","Un cheval jaune, jaune comme l’alamanda sur une lisière.",13,I. et H. Cadoré,Chouv.,17,22
 Tetfè ripati alanaj.,Tête-en fer repartit à la nage.,7,T. Léotin,L.L.,17,26
 "Lamatinik, kantapou'y, tiré rad li lanvè pou mété'y alandwet.","La Martinique, pour sa part, ôta ses vêtements qui étaient à l'envers pour les mettre à l’endroit.",13,T. Léotin,L.L.,17,30
@@ -199,7 +198,7 @@ Ni telman alé-vini.,Il y a tellement d'allées et venues.,6,G. Mauvois,M.M.,19,
 Rété mas ka alé-vini nan rev.,Il y a encore des masques qui vont et viennent dans nos rêves.,8,Monchoachi,Nst.,19,43
 I ka mété'y alez-li.,Il le met à son aise.,7,G. Mauvois,M.M.,19,47
 An lespri timanmay an bagay ka pran laplas an lot alezman.,"Dans l'esprit des enfants, une chose en remplace une autre facilement.",14,G.H. Léotin,M.L.,19,53
-Man ka fè alians-mwen aprézan épi zot ek épi tout désandans ké vini dèyè zot.,(Bible K.),15,,,19,59
+Man ka fè alians-mwen aprézan épi zot ek épi tout désandans ké vini dèyè zot.,J' établis mon alliance avec vous et avec votre postérité.,15,,Bible K.,19,59
 "Alians-li sòti an dwet-li, tonbé.",Son alliance sortit de son doigt et tomba.,9,H. Bartéléry,T. A.,20,4
 Sé djoubakè lizin Fon-Brilé a aliansé épi sé neg bitasion an.,Les ouvriers de l'usine de Fonds Brûlé s'allièrent aux nègres d'habitation.,14,R. Confiant,K.Y.,20,8
 Télévizion-an ka pli aliéné timanmay-nou ki i ka wouvè lespri-yo.,La télévision aliène davantage nos enfants qu’elle ne leur ouvre l’esprit.,10,,,20,16
@@ -224,7 +223,7 @@ Dé alpinis ped lavi-yo yè oswè adan montàn-la.,Deux alpinistes ont perdu la 
 Chak model niyaj ka viv kò’y adan an wotè oben an altitid ki ta’y menm.,Chaque type de nuage évolue à une hauteur ou à une altitude qui lui est propre.,15,S. Restog,Lam.,22,5
 I pa sé pé dot ki an alvantis.,Il ne pouvait pas être autre chose qu'un adventiste.,11,G. Mauvois,M.M.,22,10
 I kontan i touvé an amak pou dòmi.,Il est content car il a trouvé un hamac pour dormir.,8,,,22,15
-"I té ka sanblé épi dot amatè, jenn manmay kon’y menm.","(G.H Léotin. M.L.) Il se réunissait avec d’autres amateurs, adolescents comme lui.",11,,,22,20
+"I té ka sanblé épi dot amatè, jenn manmay kon’y menm.","Il se réunissait avec d’autres amateurs, adolescents comme lui.",11,G.H Léotin.,M.L.,22,20
 "Lè ami ké rivé, zot ké bo’y.","Quand votre beau-père arrivera , vous l’embrasserez.",7,,,22,32
 Manman-mwen pa té lé yo té opéré mwen di amidal.,Ma mère ne voulait pas qu’on m’opère des amygdales.,10,,,22,36
 Fòk nou sonjé amioré kò-nou.,Il faut penser à nous améliorer.,9,G. Mauvois,D. J.,22,43
@@ -237,7 +236,7 @@ Amwens an ti répi ant dé travay.,A moins d’un petit répit entre deux tâche
 Yo ka montré'w an mòso twotwa épi lari.,On vous montre un pan de trottoir et de rue.,11,G. Mauvois,M.M.,23,22
 "Manmay, an mitan tè, ni gran van.","Amis, dans l'intérieur des terres, il y a grand vent.",10,T. Léotin,L.L.,23,26
 Kidonk Liniz té fè déviran-an évè yo.,Lunise avait donc fait le retour avec eux.,10,G-H. Léotin,M.L.,23,31
-. Kisiswa pwa-a i ni an.,Quel que soit son poids.,9,R. Confiant,M.F.,23,34
+Kisiswa pwa-a i ni an.,Quel que soit son poids.,9,R. Confiant,M.F.,23,34
 Matiren ki té ka abiyé an chinpontonng.,Mathurin qui s'habillait en haillons.,10,R. Confiant,K.Y.,23,38
 "Men sa ki Ti-Poulet, an ?",Mais qui est donc Petite Poulette ?,9,T. Léotin,A.T.Z.,23,43
 Man ka pwan an tonm ki ni senk an.,Je choisis une tombe vieille de cinq ans.,9,R. Confiant,M. F.,23,47
@@ -362,7 +361,7 @@ Silon sa ou ka anplwayé a.,Selon ce que vous employez.,10,R . Confiant,M.F.,36,
 An sel anplwayé pou sèvi tou sa moun.,Un seul employé pour servir tant de gens.,11,G. Mauvois,M.M.,36,35
 Bokasa té nonmen kò’y anprè larépiblik Sant-l’Afrik.,Bokassa s’était nommé empereur de la République Centre-Africaine.,7,,,36,43
 Lanmè ka malmennen’y jou lanmè anrajé.,La mer la malmène lorsqu’elle est enragée.,9,G. Gratiant,F.K.Z.,36,52
-. I lé batjé abò avion-an men anrèjistrèman-an pòkò ouvè.,Il veut s’embarquer à bord de l’avion mais l’enregistrement n’a pas encore commencé.,10,,,36,55
+I lé batjé abò avion-an men anrèjistrèman-an pòkò ouvè.,Il veut s’embarquer à bord de l’avion mais l’enregistrement n’a pas encore commencé.,10,,,36,55
 "Tan nou za pasé ansanm bò mawché, sé pa kouyonnad.",Nous avons passé tellement de temps ensemble près du marché.,13,G. Mauvois,M.M.,37,9
 I té ka chonjé lanmanniè ansanm i té wè'y ansanm i té enmen'y.,Il se rappelait de quelle façon il l'avait aimée aussitôt qu'il l'avait vue.,15,R.Confiant,K.Y.,37,14
 Wou ki la ansanm épi mwen.,Toi qui est là en même temps que moi.,9,G. Mauvois,Ant.,37,18
@@ -429,7 +428,7 @@ Yo pa té ni aparey pou sav es an moun té vréman mò.,ls ne possédaient pas d
 Men apatoudi rélé moun a gran mémwè anlè tou sa ki fet asou latè.,Mais ce n’est pas assez de héler les gens de vaste mémoire sur tous les faits du monde.,16,Monchoachi,Nst.,43,43
 Poutan yo pa té ni apèkèlet ni apiòpiò.,Pourtant elles n'étaient ni illettrées ni idiotes.,12,H. Atine,A.S.D.,43,47
 "Alò lè an moun lé ni lajan, i ka fè an serk, i ka fè apélasion.","Ainsi quand quelqu’un veut avoir de l’argent, il trace un cercle et fait une invocation.",16,R. Confiant,M.F.,43,54
-. Sé an ti apèsi ou ni pas ou vini an vakans.,Tu n'en as qu'un petit aperçu parce que tu ess venu en vacances.,18,Gwoup Rasin Kas,L. K. T.,44,8
+Sé an ti apèsi ou ni pas ou vini an vakans.,Tu n'en as qu'un petit aperçu parce que tu ess venu en vacances.,18,Gwoup Rasin Kas,L. K. T.,44,8
 Lè i apèsivwè Matinot.,Lorsqu'il aperçut Martinotte.,8,F. Kichenassamy,C.P.G,44,12
 "Manniè man wè’y apétisan, man suiv li jik isiya.",Je l’ai vu tellement appétissant que je l’ai suivi jusqu’ici.,13,G. Mauvois,D. J.,44,17
 I té ka apézé tjè-mwen.,Il m'apaisait le cœur.,10,I et H. Cadoré,Avril.,44,21
@@ -537,7 +536,7 @@ I ka fè wol i pa sav lalep sé an maladi ki atrapan toubannman.,Il fait semblan
 Soley ka fè jé atravè sé branch-la.,Le soleil joue à cache-cache à travers les branches.,9,Jala,A.T.K.P.,54,25
 "Dépi ni an aksidan loto, moun ka atwoupé kò-yo.","Dès qu’il y a un accident de voiture, les gens s’attroupent.",9,,,54,29
 Poutji té ni tou sa atwoupman bò lékol-la ?,Pourquoi y avait-il un tel attroupement aux abords de l’école ?,9,,,54,33
-"Avan i cho, i tjuit.","(lit. Avant que le plat soit chaud, il est déjà cuit) Aussitôt dit aussitôt fait.",8,G. Mauvois,M.M.,54,42
+"Avan i cho, i tjuit.","Avant que le plat soit chaud, il est déjà cuit.",8,G. Mauvois,M.M.,54,42
 Ou sé di avan loto-a krazé.,On aurait dit que l’avant de la voiture est endommagée.,6,,,54,48
 Ay asiz anlè avan-dènié chez-la !,Va t’asseoir sur l’avant-dernière chaise !,6,,,54,53
 Nou té maché si-telman anlè tet mòn-la ki nou tout la té avanni.,Nous avions tellement marché en haut de la colline que nous étions tous épuisés.,13,,,54,57
@@ -576,7 +575,7 @@ Nwel ba fiyel kon ba ayel.,Noël pour les filleuls comme pour les aïeuls.,9,M. 
 Man konnet an boug men sé an Ayisien.,Je connais un type mais c’est un Haïtien.,11,R. Confiant,M.F.,57,54
 "Apré sa, yo twa-a ay pwan an ayòlò épi boug lajoso-a.","Après cela, les trois allèrent boire un verre de rhum avec le type de la Jossaud.",13,R.Confiant,K.Y.,58,4
 Ki model aza ki ka fè man ka jwenn ou isiya jòdi-a ?,Quel hasard fait que je te rencontre ici aujourd’hui ?,13,,,58,9
-"An jou, an flè yo ka kriyé kokliko wouj kité l'Azi, la i né a, pou fè an gran vwayaj alantou latè-a M. Houdin, K. R.)","Un jour, une fleur appelée hibiscus quitta l'Asie, où elle est née, pour faire un grand voyage autour de la terre.",6,,,58,14
+"An jou, an flè yo ka kriyé kokliko wouj kité l'Azi, la i né a, pou fè an gran vwayaj alantou latè-a","Un jour, une fleur appelée hibiscus quitta l'Asie, où elle est née, pour faire un grand voyage autour de la terre.",6,M. Houdin,K. R.,58,14
 Toujou té ni yonn dé Aziyatik Tè-Senvil.,Il y a toujours eu quelques Asiatiques à Terres-Sainvilles.,7,,,58,19
 Ola ti azougoun-mwen an ka séré ?,Où se cache ma petite chérie ?,7,,,58,23
 "Marian pati ay chaché Vach-Lanmè, ki ka rété azwapapouf.",Marignan partit à la recherche de la Vache de mer qui habitait au diable vauvert.,12,T. Léotin,L.L.,58,27
@@ -682,7 +681,7 @@ Nou chak-la ni an parad.,Nous possédons chacun une séparation.,9,G-H. Léotin,
 I té ka ranjé ek fè godiyo adan an ti barak.,Il réparait et fabriquait des godillots dans une petite baraque.,15,G-H. Léotin,M. L.,69,53
 "I té bodzè, kourè, baladè, kaliè, sédiktè, doublè, baratinè.","Il était élégant, coureur, baiseur, séducteur, mystificateur, baratineur.",12,R. Davidas,Ch.,70,8
 Ti fi-a pa té lé yo té mété baret an tet-li.,La petite fille ne voulait pas qu’on lui mette des barrettes dans les cheveux.,11,,,70,21
-Pvb. Sé épi grenn diri ou ka plen bari.,(lit. C'est avec les graines de riz qu'on remplit le baril). Les petits ruisseaux font de grandes rivières.,9,,,70,25
+Sé épi grenn diri ou ka plen bari.,C'est avec les graines de riz qu'on remplit le baril.,9,,,70,25
 "Tout moun ka priyé-dié, ka barikadé.","Tout le monde prie Dieu, se barricade.",12,J-C. Duverger,Ant. K. n° 7,70,35
 "Yo rivé asou an bas, ant dé lilet.","Il arrivèrent à un endroit où l'eau était peu profonde, entre deux ilets.",12,G-H. Léotin,M. L.,70,41
 Yo pa ka wè bas-la ka jwé tibwen two fò.,Ils ne se rendent pas compte que la basse est trop forte.,10,,,70,45
@@ -725,7 +724,7 @@ Dan an siel trankil kon Batis.,Dans un ciel tranquille comme Baptiste.,11,G. Gra
 Sé mwen ki batizé'y magré man pa labé.,C'est moi qui l'ai baptisé bien que je ne sois pas prêtre.,13,G. Gratiant F. K.,Z.,74,13
 Manman’w mété twop rad sal adan batjé-a.,Ta mère a mis trop de vêtements sales dans le baquet.,7,,,74,21
 Sa ki batjé adan pòyò apré’y…,Ceux qui se sont embarqués dans la banane après lui…,10,R. Confiant,K. Y.,74,27
-Pvb. An bato koulé pa anpéché lézot navigé.,(lit. Un bateau coulé n'empêche pas les autres de naviguer) Il ne faut pas se laisser abattre par un échec.,8,,,74,33
+An bato koulé pa anpéché lézot navigé.,Un bateau coulé n'empêche pas les autres de naviguer.,8,,,74,33
 Yo planté adan latè an grand baton kwazé asou an ti baton.,Ils ont planté en terre un grand bâton croisé avec un petit.,17,G. Gratiant F. K.,Z.,74,38
 Vié madanm-lan trapé yan baton-lélé épi wap !,La vieille femme s’empara d’une grosse mouvette et pan !,12,D. Boukman,A. F.,74,47
 "Men okontrè i té gadé Doudou, tan an ti bat-zié.","Mais au contraire, il avait regardé Doudou, le temps d'un clin d'œil.",14,G-H. Léotin,M. L.,75,3
@@ -740,8 +739,6 @@ Lestonmak-li an bavawaz.,Il a l’estomac brouillé.,6,V. Coridun,Carn.,75,34
 Bawomet pou miziré présion lè-a.,Des baromètres pour mesurer la pression de l’air.,8,S. Restog,Lam.,75,47
 Bawouf lévé pabò sé tab sèbi a.,Des razzias se sont produites du côté des tables de jeu de dés..,11,H. Bartéléry,T. A.,75,52
 I té sòti Nou-Yok oti i té sòti bay an konsè.,Il revenait de New-York où il venait de donner un concert.,16,I. et H. Cadoré,Vln.,76,6
-bay chenn : remonter une mécanique ;,parler sans arrêt,7,,,76,10
-bay fil : donner du lest bay gaz : accélérer,"emmerder, enquiquiner",4,,,76,13
 Lé zansien rakonté nou i té ka bwè vèzou dan bay kochon.,Les anciens nous ont raconté qu’il buvait du vesou dans les baquets des porcs.,15,V. Coridun,Carn.,76,25
 Lavi nou bay-alé.,Notre vie prit son essor.,7,T. Léotin L.,L.,76,29
 Ki moun ki matjé bel bay-alé tala ?,Qui a écrit ce bel éditorial ?,8,,,76,33
@@ -761,11 +758,11 @@ Ay chaché bech-la an jaden-an ba mwen !,Va me chercher la bêche au jardin !,8,
 Manman Omè té ka bechté dri,La mère d'Homère bêchait avec vigueur,9,R.. Confiant,Bitak.,78,13
 Anni an bèdè Adliz té ofè'w.,Adelise ne t’avait offert qu’un béret.,9,R.. Confiant,Bitak.,78,17
 Albè ni an bédjen ba Jizel.,Albert a le béguin pour Gisèle.,6,,,78,21
-"S'ou wè man té fè an bédji, sé ti flè blan'y-lan té kay trapé an ti gou anmè.","(R. Confiant Maris.) Si j'avais commis une erreur, ses petites fleurs blanches auraient eu un goût amer.",18,,,78,25
+"S'ou wè man té fè an bédji, sé ti flè blan'y-lan té kay trapé an ti gou anmè.","Si j'avais commis une erreur, ses petites fleurs blanches auraient eu un goût amer.",18,R. Confiant,Maris.,78,25
 Bef-la pa ka dékolé an do-mwen.,Le bœuf ne me lâche pas d'un pas.,10,G. Mauvois M.,M.,78,31
 Yich-kòn ! Ou pwan mwen pou an bef !,Enfoiré ! Tu m’as pris pour un idiot !,12,D. Boukman,Agoul.,78,44
 "Lè ou beg, ou pa ka alé palé laradio.","Quand on est bègue, on ne va pas parler à la radio.",9,,,78,51
-Pvb. Bégéyé ped.,(lit. Qui bégaie perd) Trop d'hésitation nuit.,3,,,79,3
+Bégéyé ped.,Qui bégaie perd,3,,,79,3
 Ou sé di direktè-a pa djè enmen bégéyè.,On dirait que le directeur n’aime pas trop les gens à qui il arrive de bégayer.,8,,,79,8
 "San mandé ankò plis ba kò’y, bégli anba pawol ki té konnet fann fwa’y.","Sans rien demander de plus pour lui, écrasé par des propos qui savaient le démolir.",18,T. Léotin,T. L.,79,13
 Simòn té ni an wob bej anlè'y jou-tala.,Simone portait une robe beige ce jour-là.,8,,,79,18
@@ -815,7 +812,6 @@ Sé la misié Fafay konstaté lanmen-an té bésé.,C’est à moment-là que mo
 Man Ana lolé sèviet-la adan bésin dlo cho a.,Madame Anna trempa la serviette dans la bassine d’eau chaude.,12,R. Confiant,Maris.,84,18
 I menm paré pou mété télévizion ba bet-la !,Il est même prêt à installer la télévision pour l’animal !,12,D. Boukman,Déliv.,84,24
 Ou pa té di mwen Wobè té bet kon sa.,Tu ne m’avais pas dit que Robert était aussi stupide.,10,,,84,31
-bet a bondié,. coccinelle,3,,,84,33
 A lè bet a fé té ka koumansé sòti,A l'heure où les lucioles commencent à sortir,14,F. Kichenassamy,C. P. G,84,38
 Lafanmi kenkina désann mété chouval-bwa anlè laplas Bèten bod lanmè.,"La famille Quinquina descendit installer un manège de chevaux de bois sur la place Bertin, au bord de la mer.",10,I et H Cadoré,Chouv.,85,6
 I ka fè’y fè bétiz.,Il lui fait faire des bêtises.,9,R. Confiant,M. F.,85,12
@@ -929,12 +925,11 @@ I pa jenmen antré adan blanchisri-a.,Il n’est jamais entré dans la blanchiss
 "Misié Arsèn, sé sa ki té blazé.",Monsieur Arsène était un fieffé blasé.,10,D. Velasques,Maled.,97,16
 Kaméléwon blé a sé an bel flè lè'y lé.,Le caméléon bleu peut être une belle fleur lorsqu'il le veut.,12,T. Léotin,L.L.,97,22
 Sé nègres blé Mòn Gonmié té ka dérédi katjé an fom-yo.,Les négresses d'ébène du Morne Gommier décroisaient leurs cuisses galbées.,16,R. Confiant,Ecrire p. t.,97,26
-blé 3 (la),. la Bleue (personnage des contes créoles représentant un énorme poisson dont une jeune fille tombe amoureuse),3,,,97,28
 Sé an fouyapen blé ka gadé’w an zié.,C’est un fruit-à-pain blet qui vous regarde dans le blanc des yeux.,11,Joby Bernabé,Konm.,97,33
 "Menm kalvè-a, sé menm swè blèblè a.","Le même calvaire, les mêmes pauvres soirs.",9,Monchoachi,Mant.,97,42
 Loret vini blenm kon an kristofin anba fey.,Laurette est devenue d’une pâleur extrême.,11,R. Confiant,K.Y.,97,46
 Lè zot wè blenmté sé grenn-zo a koumansé ka toumvasé anlè kò-yo.,"Lorsque les dés, drapés dans leur couleur blême, commencèrent à tourner en tous sens sur eux- mêmes.",14,R.Confiant,K.Y,97,52
-"I té sa djéri tout maladi, tout bles",Elle savait guérir toutes les maladies et toutes les blesses 1) « La blesse est un syndrome créole qu'il est difficile de traduire en termes médicaux,13,I. et H. Cadoré,C.S.,98,13
+"I té sa djéri tout maladi, tout bles",Elle savait guérir toutes les maladies et toutes les blesses,13,I. et H. Cadoré,C.S.,98,13
 Ou chaché blésé mwen.,Tu as cherché à me blesser.,7,G. Mauvois,Ant.,98,39
 Dé madanm té ka pòté blésé-a soukou.,Deux femmes portaient secours au blessé.,10,R. confiant,Maris.,98,45
 Sé plis lapenn ki blési ki vlopé kè’y.,C’est davantage la peine qui lui a enveloppé le cœur qu’une blessure.,10,Maloulou,D.,98,49
@@ -1005,7 +1000,7 @@ Man kay ba’y an bonbon.,Je vais lui donner un bonbon.,8,S. Beckett,J.B.,105,47
 "Avan, nou té ka sipòté kò-nou, menm si bonda-maté a té ka palé tanzantan.","Avant, nous nous supportions mutuellement, même si le coutelas à grosse poignée intervenait de temps en temps.",14,Gwoup Rasin Kas,L. K. T.,106,15
 "Té ni ka tranpé gwo piman bonda-man-jak, pwav Kayenn, gwo diten…","Ils y avait de gros piments, du poivre de Cayenne, du gros thym qui trempait…",11,F. Kichenassamy,C.P.G.,106,21
 Epi an chajman bondans anba bra'y.,Avec une tonne de cadeaux sur les bras.,9,R. Confiant,Maris.,106,26
-I ké pòté an gran bondans.,"Il portera en abondance. (H. Atine, A. S. D.)",6,,,106,30
+I ké pòté an gran bondans.,"Il portera en abondance.",6,H. Atine,A. S. D.,106,30
 Mangous bondi kon an fizé.,Mangouste bondit comme une fusée.,8,F. Kichenassamy,C.P.G.,106,34
 "Fo ou pwan sa Bondié voyé ba'w, Loulouz.","Il faut prendre ce que Dieu t'envoie, Loulouse.",11,G. Mauvois,M.M.,106,38
 Fi-li a té za fè pliziè sakrifis bondié-kouli ba’y…,Sa fille lui avait déjà organisé plusieurs sacrifices hindouistes…,11,R.Confiant,K.Y.,106,44
@@ -1153,7 +1148,7 @@ Ni an ti brizet ki lévé anlè lanmè.,Un petit vent faible a surgit de la mer.
 Sé pou sa yo ka di respekté pawol moun ki nan bwa lanmò.,C’est pour cela qu’on dit qu’il faut respecter les paroles des gens qui sont dans les bras de la mort.,16,G-H. Léotin,M.L.,125,31
 Apré yo fini pran bon bwa an do-yo.,Après avoir reçu une bonne raclée sur le dos.,12,H. Bartéléry,T. A.,125,37
 "Kouman, zot pòkò konprann bet a zel two sot, two bwabwa.","Comment, vous n’avez pas encore compris que les bêtes à ailes sont trop sottes trop empotées.",15,M-Th. Lung-Fou,C. C.,126,5
-"Lanvi pwan'y ay ponmnen atravè lavil-la li yonn, bò Bwa-d-Boulòn.","(R. C. Maris.) L'envie lui prit d'aller se promener seule à travers la ville, du côté du Bois de Boulogne.",10,,,126,13
+"Lanvi pwan'y ay ponmnen atravè lavil-la li yonn, bò Bwa-d-Boulòn.","L'envie lui prit d'aller se promener seule à travers la ville, du côté du Bois de Boulogne.",10,R. C. Maris.,,126,13
 "Pa two-two pré, an jenn ti pié bwadenn.","Pas trop-trop près, un jeune pied de bois d’Inde.",11,T. Léotin,O.L.,126,33
 Avan bayè-a ki kouwonnen vil-la té ranfondré anba difé bwa-gonm.,Avant que la barrière qui ceinture la ville ne s’effondre à cause d’un feu de bois de gomme.,10,I. et H. Cadoré,A.,126,38
 "Yo tout chapé Savann-Pwa épi fizi, koutla, bwakok pou dékalfoutjé bet-lonng lan.","Ils s’en allèrent tous à Savane-Pois, munis de fusils, de coutelas et de bâtons en forme de V pour étriper le serpent.",12,R. Confiant,K. Y.,126,45
@@ -1176,14 +1171,14 @@ Bet-a-fé té ka bwodé siel-la épi difé.,Les lucioles brodaient le ciel avec 
 Yo fè’y kité limiè soley pou mété’y adan an kavo bwonz.,Ils lui ont fait abandonner la lumière du soleil pour le mettre dans un caveau de bronze.,14,G. Mauvois,Ant.,129,35
 I kon si man sòti bien lwen.,Comme si j'étais sortie bien loin.,10,G. Mauvois,M.M.,129,39
 "I mété savon, dantifris, serviet, bwos épi tou sa yo bizwen pou fè twalet.","Il mit du savon, du dentifrice, des serviettes, des brosses et tout ce dont on a besoin pour faire sa toilette.",18,I. Césaire,Contes N.J.,129,43
-bwos a dan,. brosse à dent,3,,,129,46
+bwos a dan,brosse à dent,3,,,129,46
 "Viv dan lanej, vivi dan bwouya.","Vivre dans la neige, vivre dans le brouillard.",9,F. Thaly,L.I.,130,6
 Man ped tout sé fey bwouyon mwen an.,J’ai perdu toutes mes feuilles de brouillon.,8,,,130,11
 Sé sel bagay Chaben tann.,C’est la seule chose que Chabin a entendu.,8,T. Léotin,O.L.,131,20
 Manot sé an chabin zié vè.,Manotte est une chabine aux yeux verts.,9,C. Rosemain,Anth.,131,29
 Sa sé an bel chablabla.,Ceci est du plus pur bla-bla-bla.,8,M. Elisée-Désir,T.M.B.C,131,40
 Jan lan bouk pa té ka péyé chabon ankò.,Les gens du bourg ne payaient plus le charbon.,12,F. Kichenassamy,C.P.G.,131,44
-Pvb. Sé vréman an sak chabon lapousiè ka sòti,"(lit. C’est vraiment du sac de charbon qu’émane la poussière) Tel père, tel fils",9,,,131,46
+Sé vréman an sak chabon lapousiè ka sòti,"C’est vraiment du sac de charbon qu’émane la poussière",9,,,131,46
 Met chabonnié té ka trimen dépi soley té lévé.,Maître charbonnier trimait depuis le lever du soleil.,12,F. Kichenassamy,C.D.D.,132,9
 Dan soukwé akwèdi sé chacha chouval-bwa.,Les dents claquèrent telles des «chacha» de chevaux de bois. « Nous connaissons deux formes de « chacha » typiquement propre aux Antilles françaises : le,9,H. Cadoré,Bloom.,132,21
 Man ka di'y ba flè chacha.,Je le dis aux fleurs du chacha.,10,G-H. Léotin,M. V.,132,41
@@ -1231,8 +1226,8 @@ Boréga ni tan chapé ?,Beauregard a-t-il eu le temps de s'échapper ?,8,C. Boul
 Ou té anni wè yo chapé an mitan lanmes lantèman an.,On les voyait s’en aller au beau milieu de la messe d’enterrement.,11,R. Confiant,M.F.,138,36
 An ti lapo chapé té pou ba’w plis chans pa rété anba maframé-a.,Une couleur métissée devrait vous offrir plus de chances de ne pas rester dans les champs de canne à sucre.,16,G-H. Léotin,M.L.,138,43
 Ou ka fè konsidiré an ti chapel.,Vous faîtes une espèce de petite chapelle.,10,R. Confiant,M.F.,138,48
-Misié chapé-kouli a ki ni Mewsédes-la ?,"L’homme métis indien à la Mercédès ? « Terme désignant un individu métis d’Indien et de quelqu’un appartenant à un autre type racial (Nègre, Mulâtre…). Il signifierait une certaine promotion raciale, « chapé » devant être compris",10,R. Confiant,Bitak.,138,52
-chapit-la té key ni pou jik oswè.,on serait resté sur ce chapitre jusqu’au soir.,9,G.Mauvois,D.J.,139,6
+Misié chapé-kouli a ki ni Mewsédes-la ?,"L’homme métis indien à la Mercédès ?",10,R. Confiant,Bitak.,138,52
+Chapit-la té key ni pou jik oswè.,on serait resté sur ce chapitre jusqu’au soir.,9,G.Mauvois,D.J.,139,6
 Sé enspektè-a bliyé gadé chapito-a.,Les inspecteurs ont oublié d’examiner le chapiteau.,5,,,139,11
 "Misié pasé pitenbok flannel li, ranjé chapo'y.","Il passa son gilet de flanelle, arrangea son chapeau.",10,F. Kichenassamy,C.P.G.,139,20
 Zot kontel marisosé ka soukwé zel-yo anlè chapo-dlo.,Vous ressemblez à des libellules secouant leurs ailes sur des nénuphars.,11,R. Confiant,Maris.,139,26
@@ -1271,7 +1266,6 @@ Etila Chelchè pasé ?,Où est passé Schoelcher ?,10,C. Colombo,T. J. M. L.,143
 Lannuit nwel sé alé an bann jis bod lanmè Chelchè.,"La nuit de Noël, il s’agit alors de se rendre en bandes jusqu’au bord de mer à Schœlcher.",13,G. Gratiant,F.C.,143,18
 Ka fè anlo chèlèlè épi kò’y afos lakontantman té anlè’y.,Se donnant beaucoup d’agitation tellement elle était contente.,13,R. Confiant,Maris.,143,26
 "I maché, i maché, i maché…i chéma…","Il marcha, marcha, marcha… sa marche s’inversa…",11,R. Nazaire,T. K.,143,36
-chen fè 1,. voir chien-fè,3,,,143,46
 Yo té plis ki sav sé té chen-fè Mòn Eskap-la ki té lotè sé vakabonnajri-tala.,Ils savaient fort bien que l'auteur de ces méfaits n'était autre que le salaud du Morne Escarpe.,15,R. Confiant,E. P. T.,143,50
 "Dlo bénit ki la, chien-touni ki ou yé !","C'est de l'eau bénite, espèce de voyou !",12,R. Confiant,Maris.,144,4
 Jistèman sé sé chenn-lan zot pa ka wè mé nou esklav bien.,Justement vous ne voyez pas les chaînes mais nous sommes réellement des esclaves.,15,C. Boulard,Beaur.,144,8
@@ -1284,7 +1278,7 @@ Anba bwa nou ha chèché kò an chèpi.,Nous avons déjà cherché des corps en 
 An moun kon’w man chéri si-telman.,Quelqu’un comme toi que j’ai tant chéri.,10,G. Mauvois,D. J.,144,42
 Man key dòmi bò frè-mwen chéri.,Je dormirai près de mon frère chéri.,9,G. Mauvois,Ant.,144,47
 "Met, gozié-mwen ches, kité mwen manjé ti mòso.","Maître, mon gosier est sec, laissez-moi manger un morceau.",11,F. Marbot,Bamb.,144,51
-"Dépi ou ka pòté Lakos, né papiyon, chèvaliè. G. Mauvois, D. J.)","Depuis le jour où tu portes des Lacoste, un nœud-papillon, une chevalière.",12,,,145,4
+"Dépi ou ka pòté Lakos, né papiyon, chèvaliè.","Depuis le jour où tu portes des Lacoste, un nœud-papillon, une chevalière.",12,G. Mauvois,D. J.,145,4
 "Ba mwen an chez, Lwiz, mafi.","Donne-moi une chaise, ma chère Louise.",9,G. Mauvois,M.M.,145,8
 Man enki chiélé dwet douvan mwen.,Je n'ai fait que m'enfuir droit devant moi.,9,R. Confiant,Bitak.,145,30
 Zot sav ki chien ?,Vous savez de quel chien il s'agit ?,8,G. Mauvois,M.M.,145,35
@@ -1372,7 +1366,7 @@ Non-tala té ka vonvonnen nan lespri-mwen kontel an danma.,Ce nom bourdonnait da
 Pou an majò danmié li yonn.,Afin qu’un fier-à-bras danse seul le damier.,9,D. Boukman,P.B.S.,157,15
 Tout danmiétè ki lawonn za ranjé kò-yo.,Tous les danseurs de damier qui participent à la ronde sont fin prêts.,12,J. Massolin,N. K. M.,157,19
 Mariyan Tetfè té ja ni labitid rantré adan danmjann kasé.,Marignan Tête-en-fer avait l’habitude de s’engouffrer dans des dame-jeanne cassées.,13,T. Léotin,L.L.,157,23
-". variante de tann (entendre) qui ne s’emploie qu’à l’exclamatif An bel madanm, dann !","Une de ces belles femmes, vous m’entendez !",8,T. Léotin,L.L.,157,30
+"An bel madanm, dann !","Une de ces belles femmes, vous m’entendez !",8,T. Léotin,L.L.,157,30
 Viann kochon-an danndi davwa ou pa mété asé sel.,La viande de cochon est saisie parce que tu n’as pas mis assez de sel.,9,,,157,36
 "Eben, yo danné yo tou lé dé.","Eh bien, ils ont été damnés tous les deux.",10,S. Beckett,L.K.G.,157,40
 Ou mété dan-prété pou dépané bouch-ou.,Tu t’es mis un dentier pour te dépanner la bouche.,9,T. Léotin,O.L.,157,44
@@ -1469,7 +1463,7 @@ Epi nou pa oblijé pati définitivman lanné-tala.,Et puis nous ne sommes pas ob
 Yo touvé konmen milion déficit adan tjes lantoupriz-la.,On a trouvé plusieurs millions de déficit dans la caisse de l’entreprise.,8,,,166,39
 Wozalien té ka prété’y li dèflouz.,Rosalien le lui prêtait facilement.,8,R.Confiant,K.Y.,166,45
 "Kantapou si ou ni an défo, ou pé di non’w chanjé.","Si par hasard vous avez un défaut, vous êtes certain que votre nom changera.",16,G. de Vassoigne,F. K.,166,50
-"éfolmantasion, dékantékantiè, molpisans.","Destruction, désunion, léthargie.",7,G. Luce,M. P.,166,54
+"Éfolmantasion, dékantékantiè, molpisans.","Destruction, désunion, léthargie.",7,G. Luce,M. P.,166,54
 "Ka britalizé’w, défolmanté’w kon moudonng ki yo yé.","Qui vous brutalise, vous détruit comme un sauvage qu’il est.",11,G-H. Léotin,M.L.,167,3
 "Yo kouri vini, défonsé lapot.",Ils ont accouru et ont défoncé la porte.,10,G. de Vassoigne,F. K.,167,7
 "Adan tout lo défoulman-tala, Vaval té ka kriyé anmwé pas i té tou sel.","Au milieu de tous ces défoulements, Vaval appelait au secours car il était tout seul.",14,Jid,Ant. n° 1130,167,12
@@ -1522,13 +1516,13 @@ Tafiatè té ka débatjé douvan jou pou dékolaj-yo.,Les saoulards arrivaient �
 "Toufay dékonnet, toufay loubliyans.","Touffeur de la méconnaissance, touffeur de l’oubli.",8,G. Luce,M. P.,172,25
 "Atjelman, monchè, man dékonfowté, man dézolé.","A présent, mon cher, je suis désemparé, je suis désolé.",10,I. Césaire,C. N.J.,172,30
 "Komva i té ka koumansé dékonpozé, nou ay asiz pli lwen.","Etant donné qu’il commençait à se décomposer, nous sommes allés nous asseoir plus loin",13,G.Mauvois,Ant.,172,34
-Foté-a ka dékontrakté sé misk-lan.,"Le frottement décontracte les muscles. (H. Atine, A.S.D.)",5,,,172,38
+Foté-a ka dékontrakté sé misk-lan.,"Le frottement décontracte les muscles.",5,H. Atine,A.S.D.,172,38
 Adliz pa té ka noz di sa i té ka vwè an vré pou pa té dékontwolé manman’y.,Adelise n’osait pas dire ce qu’elle voyait réellement afin de ne pas contredire sa mère.,18,R. Confiant,Maris.,172,44
 Plis ki an dékorasion.,Davantage qu’une décoration.,7,M. Lebielle,F.N.,172,49
 Nou chwézi pli bon dékoratè Matinik.,Nous avons choisi le meilleur décorateur de la Martinique.,6,,,172,53
 Lanmè-la té ka vansé èvè vag a'y ki té ka dékoré.,La mer avançait avec ses vagues qui décoraient.,15,J-M. Le Clézio,Paw.,173,3
 "Tan ek si-tan pwonmes ek an jou, nan dékou...","Tant et tellement de promesses et un jour, dans le décours...",11,Monchoachi,Nst.,173,7
-Nou an mitan an lot dékou.,"Nous sommes dans un autre contexte. (J. Massolin, N. K. M.)",6,,,173,17
+Nou an mitan an lot dékou.,"Nous sommes dans un autre contexte.",6,J. Massolin,N. K. M.,173,17
 Koumandè-a té ka gloubap an bich dachin dékouché toupannan an machoket té ka ranjé fè chouval-li ba’y.,Le commandeur engloutissait un morceau de chou de chine pendant qu’un forgeron réparait les fers de son cheval.,9,R. Confiant,Maris.,173,24
 Kan yo anbété pas mari-yo dékouché.,Quand elles sont embêtées parce que leur mari a découché.,10,M.-Th. Lung-Fou,P. D.,173,29
 Pantalon-an dékoud adan goumen-an.,La pantalon s’est décousu pendant la bagarre.,4,,,173,33
@@ -1579,7 +1573,7 @@ Sé pa an manniè fè an démonstraksion anlè lateknik épi lang kréyol-la.,Ce
 I démonté tout motè-a pou té sa touvé pann-la.,Il a démoli tout le moteur pour pouvoir trouver la panne.,9,,,178,43
 "Kontel an bi gonmié, pri adan an lanm lanmè démonté.",Comme une barque en gommier prise au milieu des vagues d'une mer démontée.,13,J-M. Rosier,Lk.,178,47
 Mé i démontré ki i malen pasé'y.,Mais il démontra qu'il était plus malin que lui.,13,C. Colombo,T. J. M. L.,178,51
-"(R. P. Labat, V. A.) dénatiré",. (se) dénaturer,6,,,179,26
+dénatiré,dénaturer,6,,,179,26
 "Papa’w sé an engra, an engra dénatiré.","Ton père est un ingrat, un ingrat dénaturé.",9,V.C.,C.,179,28
 "Sé dènié’w, annou fimen’y, i di’w.","C’est ton dernier, fumons-le, te dit-il.",9,T. Léotin,O.L.,179,32
 I di mwen sé denn épi fwa gra i ka manjé.,Il m'a dit ne manger que de la dinde et du foie gras.,15,Jid,Ant. n° 1123,179,36
@@ -1808,7 +1802,7 @@ Man ka divinen es i bon oben es i mové.,Je devine s’il est bon ou mauvais.,13
 Mèyè i té katjilé anlè divini'y ek i té bokanté lidé.,Peut-être qu'il avait réfléchi à son avenir et changé d'idée.,14,R. Confiant,Maris.,203,33
 "Asé konté, miltipliyé, divizé sa ou ba.","Cessez de compter, de multiplier, de diviser ce que vous donnez.",11,J.F. Liénafa,Y. S.R.,203,37
 "Mésié, zot pa ka wè ki Bétjé-a ka éséyé divizé nou.","Les amis, vous ne voyez pas que le Béké essaie de nous diviser..",14,C. Boulard,Beaur.,203,41
-9 sé an chif ki divizib pa 3.,9 est un chiffre divisible par 3.,10,H.Atine,A.S.D.,203,45
+Nèf sé an chif ki divizib pa 3.,Neuf est un chiffre divisible par 3.,10,H.Atine,A.S.D.,203,45
 Chaken tini yon divwè.,Chacun possède un devoir.,7,F. Marbot,Bamb.,204,5
 Zié siklòn-la pé ni pabò 30 rivé jik 70 tjilomet diyamet.,L’œil du cyclone peut avoir près de 30 jusqu’à 70 kilomètres de diamètre.,11,S. Restog,Lam.,204,11
 An Milat kravaté-lennté pasé abò an Jip épi an dizenn dog alantou’y.,Un mulâtre en costume-cravate passa à bord d’une Jeep entouré d’une dizaine de nervis.,15,R. Confiant,Bitak.,204,16
@@ -1971,7 +1965,7 @@ Wotè an milimet dlo ka tonbé égal épi an lit dlo ki ka kouvè an sirfas yon 
 Sé pa pou di fok ou égoyis.,Cela ne signifie pas qu’il faut se montrer égoïste.,12,G. de Vassoigne,F. K.,225,29
 "Sé moun-tala, sé dé engrédian.",Ces gens sont des insignifiants.,9,G. Mauvois,D. J.,225,35
 Sé tala tou té égri.,Ceux-là aussi étaient fâchés.,7,R.Confiant,K.Y.,225,41
-"« Man sav ! Man sav ! » vié-fanm-la rélé, égritid anlè’y.","Je sais ! Je sais ! répondit la vieille dame, assez énervée.",14,R.Confiant,K.Y.,225,46
+"« Man sav ! Man sav ! » vié-fanm-la rélé, égritid anlè’y.","«Je sais ! Je sais ! » répondit la vieille dame, assez énervée.",14,R.Confiant,K.Y.,225,46
 Sé pou sa mo-tala pa ka egzisté.,C’est pour cela qu’un tel mot n’existe pas.,11,H. Atine,A.S. D.,226,11
 Tibwen chalè ek tjè.,Un peu de chaleur et de courage.,6,M.Lebielle,F.N.,226,16
 Yo wousivwè an bel kout lodè ékaliptis.,Ils reçurent une brassée de senteurs d'eucalyptus.,11,K. Mansfield,L. L.,226,22
@@ -2032,7 +2026,7 @@ Jik kochon yo ka tjwé an manniè endistriyel.,On tue même les cochons de mani�
 Sa sé dé endividi-taa ka vini fè isia ?,Qu'est-ce que ces deux énergumènes viennent faire ici ?,15,C. Colombo,T. J. M. L.,232,23
 Sé an maladi ki endjérisab si’w pa pwan’y o mo.,C’est une maladie qui est inguérissable si on ne la soigne pas sérieusement.,12,H.Atine,A.S.D.,232,29
 Misié li mè ka énervé kò’y.,Monsieur le maire s’énerve.,11,I. et H. Cadoré,Chouv.,232,35
-enfim ki pa kapab maché.,Infirmes incapables de marcher.,7,M.Lebielle,F.N.,232,39
+Enfim ki pa kapab maché.,Infirmes incapables de marcher.,7,M.Lebielle,F.N.,232,39
 Man té konpwann misié té pli enfliyan ki sa.,J'tais persuadé qu'il était plus influent que cela.,9,,,232,48
 Donk yo ka pansé ki sé koulè-tala té pé ni an enfliyans anlè timanmay-la.,Elles pensent donc que ces couleurs pouvaient avoir une influence sur l’enfant.,14,H.Atine,A.S.D.,232,52
 Asiparé Edmon té ka woulé kon enfòmatè ba lakolbok.,"A ce qu’il paraît, Edmond travaillait comme informateur pour les flics.",9,,,233,2
@@ -2074,11 +2068,11 @@ Plézi-yo sé té enstidjé neg ki pòkò janmen menyen grenn-dé pou fè an kou
 A ! Misié enstititè men sé mwen ki vann an tet moun-mò ba’y.,Ah ! Ce type est instituteur mais c’est moi qui lui ai vendu un crâne.,13,R. Confiant,M.F.,236,57
 "An sel enstriman i sa jwé, sé flit.","Il ne sait jouer que d’un seul instrument, la flûte.",8,,,237,9
 "Yo di ou pa enstwi, pas ou pa sa palé fwansé.","Ils disent que tu n’es pas instruit, parce que tu ne sais pas parler français.",13,Jala,A.T.K.P.,237,17
-. Man touvé moun-la entak.,J'ai retrouvé la personne intacte.,9,R. Confiant,M. F.,237,21
+Man touvé moun-la entak.,J'ai retrouvé la personne intacte.,9,R. Confiant,M. F.,237,21
 "Yo di ki dlo, siwtou kon i ka sòti an siel, pa pou ta entel ou entel.","Ils disent que l'eau, surtout celle qui tombe du ciel, ne doit pas appartenir à untel ou untel.",22,G. Mauvois,K. L. K.,237,27
 "Kisiswa kondision sosial moun, lé gwo, lé piti, lé entélijan.","Quelle que soit la condition sociale des gens, qu’ils soient riches, pauvres, intelligents.",10,R. Confiant,M.F.,237,31
 I ni entéré.,Il a intérêt à le faire.,6,S. Beckett,L.K.G.,237,43
-"Falé, an mizi an mizi, nou té fè lespri’y viré anlè sijé-a ki té ka entérésé nou a.","(R. Confiant. M.F.) Il fallait, qu’au fur et à mesure nous le ramenions au sujet qui nous intéressait.",18,,,237,50
+"Falé, an mizi an mizi, nou té fè lespri’y viré anlè sijé-a ki té ka entérésé nou a.","Il fallait, qu’au fur et à mesure nous le ramenions au sujet qui nous intéressait.",18,R. Confiant.,M.F.,237,50
 "Témwen-an, man Véro, entèvienn jistikont apré doktè Daniel Samova.","Le témoin, madame Véro, intervint juste après le docteur Daniel Samovar.",13,T. Léotin,L. E.,238,2
 Man ka entewdi’w pwenté nan komin Fon-Gantans.,Je t’interdis de mettre les pieds dans la commune de Fond Grand-Anse.,9,R.Confiant,K.Y.,238,9
 Pol té las ka gadé'w an manniè entéwogatè.,Paul ne cessait de te regarder d'un air interrogateur.,8,,,238,17
@@ -2144,17 +2138,17 @@ Man ka mandé Bondié viv asé pou espié fot man komi.,Je demande à Dieu de vi
 An ti koté ka espiré’w.,Un petit endroit qui t’inspire.,8,S. Beckett,L.K.G.,244,37
 Vizou-a ka sèvi pou fè wonm oben sik silon espésialité sosiété-a.,Le vesou sert à fabriquer du rhum ou du sucre selon la spécialité de la société.,17,J. Etienne,Trib. Ant. n° 47,244,42
 I pa té ka wè poutji sé espésialman brad-fé Ladjables té lé.,Il ne comprenait pas pourquoi la Diablesse voulait tout spécialement des tisons.,15,T. Léotin,L.L.,244,46
-Mi yonn-dé esplikasion anlè sa ka woulé an péyi-a. (G.A.T.N°48),Voici quelques explications sur ce qui se passe dans le pays.,10,,,244,52
-Ti bolonm-lan pa té pé esplitjé poutji lajan-an té la.,"(F. Kichenassamy, C.D.D.)",10,,,244,57
+Mi yonn-dé esplikasion anlè sa ka woulé an péyi-a.,Voici quelques explications sur ce qui se passe dans le pays.,10,,G.A.T.N°48,244,52
+Ti bolonm-lan pa té pé esplitjé poutji lajan-an té la.,"Le petit garçon ne pouvait expliquer pourquoi l’argent se trouvait là.",10,F. Kichenassamy,C.D.D.,244,57
 Dènié esplwatè key anba latè.,Les derniers exploiteurs se retrouveront sous terre.,8,Joby Bernabé,Konm.,245,12
 Zot konnet mo-tala : espolié ?,Vous connaissez ce mot : expolier ?,9,G. Mauvois,Antig.,245,20
 Men sé répons-lan pa té toujou espontané.,Mais les réponses n’étaient pas toujours spontanées.,9,H.Atine,A.S.D.,245,24
 Kadiyak ka espozé nan senmitiè loto.,Les Cadillac sont exposées dans les cimetières de voiture.,10,G-H. Léotin,M. V.,245,30
 Evwala kè san fè espré i twouvé kò’y asou tè gran Djab-la.,Et voilà que sans le faire exprès il se trouva sur les terres du Grand Diable.,16,M-Th. Lung-Fou,C. C.,245,38
-"Lapli titim-bwachech espresman toufé nan bel balan sagayè s épié-foujè a. R. Confiant, J. D. D. B.)",Pluie-énigme très sûrement étouffée dans le bel allant des fougères.,6,,,245,45
+"Lapli titim-bwachech espresman toufé nan bel balan sagayè s épié-foujè a.",Pluie-énigme très sûrement étouffée dans le bel allant des fougères.,6,R. Confiant, J. D. D. B.,245,45
 I ka kontinié viv an espri.,Il continue à vivre en tant qu’esprit.,9,R. Confiant,M.F.,245,49
 Ou té ka santi ti manzel-la té bizwen esprimen kò’y.,On sentait que la jeune demoiselle avait besoin de s’exprimer.,10,,,245,54
-Pou yo té pé espwaté’w tout lavi’w. (G.A.T.N°2),Afin qu’ils puissent t’exploiter toute ta vie.,8,,,246,5
+Pou yo té pé espwaté’w tout lavi’w.,Afin qu’ils puissent t’exploiter toute ta vie.,8,,G.A.T.N°2,246,5
 Man té ka fè konsidiré sé an estaj.,Je faisais comme s’il s’agissait d’un stage.,11,R. Confiant,M.F.,246,11
 Konmen estajiè nou pwan lanné pasé ?,Combien de stagiaires avons-nous pris l’an passé ?,7,,,246,15
 "Pi gwo bagay i té ni pou fè, sé té batizé estasion wouzaj la.","La plus grosse tâche qu'il devait accomplir, c'était de baptiser la station d'arrosage.",19,G. Mauvois,K. L. K.,246,19
@@ -2253,7 +2247,7 @@ E sé kon sa sé masè-a rivé chapé an fè-tala.,Et c’est ainsi que les sœu
 "Lè an moun ka pwan fè, fok pa néyé’y adan an vè.",Quand quelqu’un a de graves ennuis il ne faut pas le noyer dans un verre.,15,G. Luce,T.P.P.,257,34
 Dézod-la pli feb.,Le tapage est plus faible.,8,I. et H. Cadoré,S.D.M,257,44
 Es ou sé lé ankò an gwo bonm fè-blan dlo ?,Voudrais-tu encore une grosse vasque en fer-blanc pleine d’eau ?,16,G. Gratiant,F. K. Z.,257,50
-Ou ka pwofité asou fébles doudou’w. (V.C.C.),Tu profites de la faiblesse de ton amoureux.,7,,,257,54
+Ou ka pwofité asou fébles doudou’w.,Tu profites de la faiblesse de ton amoureux.,7,,V.C.C.,257,54
 Dépi limiè di jou koumansé fébli.,Dès que la lumière du jour commença à faiblir.,8,M.Lebielle,F.N.,257,58
 Yo té mété lajan-yo anlè kok pi fèbo a pou té anmasé plis soumaké si anka yo té genyen.,Ils avaient misé sur le coq le plus faiblard afin de ramasser davantage d’argent au cas où ils gagneraient.,19,R.Confiant,K.Y.,258,3
 "Ni yonn ki té achté fizi a bouchon, péta ek fé-dartifis.","L'un d'eux avait acheté des fusils à bouchon, des pétards et des feux d'artifice.",15,Jid,Ant. n° 1122,258,12
@@ -2281,9 +2275,9 @@ Mwa mé ni anlo jou férié.,Le mois de mai comporte beaucoup de jours fériés.
 Ou sé di fermèti-a pété.,On aurait dit que la fermeture est cassée.,5,,,260,31
 Lafimen-yo ka ba chalè-a plis plézi ankò pou i fésé kò’y anlè tet moun.,La chaleur conforte encore plus la chaleur quand elle s’abat sur la tête des gens.,14,R. Confiant,Bitak.,260,44
 Mwen té kay bay an gran festen pou tout kanmarad-mwen.,Je donnerais un grand festin pour tous mes camarades.,14,M-Th. Lung-Fou,C. C.,260,51
-Nou pa jwé adan an ti festival. (GA.T.N°2),Nous n’avons pas joué dans un petit festival.,8,,,260,57
+Nou pa jwé adan an ti festival.,Nous n’avons pas joué dans un petit festival.,8,,G.A.T.N°2,260,57
 Malgré kout fwet festonnen asou lapo do-yo.,Bien que les coups de fouet festonnèrent la peau de leur dos.,9,G.Gratiant,F.C.,261,2
-Yo té maléré pasé maléré fet.,(lit. Ils étaient plus malheureux que malheureux a été fait) Ils étaient malheureux comme la pierre.,10,R. Nazaire,T. K.,261,10
+Yo té maléré pasé maléré fet.,Ils étaient plus malheureux que malheureux a été fait.,10,R. Nazaire,T. K.,261,10
 Fétay kay pwan lavol.,Les toits s’envoleront.,6,R.Loiseau,Lt.,261,20
 "Zot pa ni ayen pou zot fè, sakré bann ti fet-chat !","Vous n’avez rien à faire, espèces d’emmerdeurs !",14,G.H.Léotin,M.L.,261,27
 "Bann fet-chié, rété la…","Bandes d’emmerdeurs, restez ici…",6,R.Loiseau,Lt.,261,31
@@ -2455,7 +2449,7 @@ I fonsé zié’y épi i voyé’y asou Kolibri.,Il fronça les yeux et s’éla
 Kannal-la ka pati Fon Sen-Dini rivé Kawbé.,La canal part de Fond Saint-Denis pour arriver au Carbet.,12,J. Massolin,N. K. M.,278,37
 Fok man toujou pasé pa an fonsèyè pou trapé’y.,Il me faut toujours passer par un fossoyeur pour l’obtenir.,12,R. Confiant,M.F.,279,2
 Fok mwen éséyé fos-ou.,Il faut que je mesure tes forces.,8,I. Césaire,C. N.J.,279,15
-exp : fè fos anlè an bagay : exercer une pression sur Lè-a ka déplasé kò’y si an présion ka fè fos anlè’y.,L’air se déplace si une pression s’exerce sur lui.,14,S. Restog,Lam.,279,18
+Lè-a ka déplasé kò’y si an présion ka fè fos anlè’y.,L’air se déplace si une pression s’exerce sur lui.,14,S. Restog,Lam.,279,18
 Lavi sé an manman ki konnet fos chaj pitit-li pé pòté.,La vie est une mère qui sait quel poids ses enfants peuvent porter.,15,N. Cage-Florentiny,H. N.,279,23
 Lavi sé an manman ki konnet fos chaj pitit-li pé pòté.,La vie est une mère qui sait quel poids ses enfants peuvent porter.,15,N. Cage-Florentiny,H. N.,279,27
 Lè i té kay wè fos yanm li.,Quand il allait s’occuper de ses fosses d’ignames.,10,R.Confiant,K.Y.,279,31
@@ -2560,7 +2554,7 @@ Pa kité friyapen pouri.,Il ne faut pas laisser le fruit a pain pourrir.,6,T.Lé
 "Yo sé pé pasé dis fwa, ven fwa.","Ils pourraient passer dix fois, vingt fois.",10,S.Restog,T.P.P.,289,25
 Ou pa ka wè pis ou pa ni pies fwaksion épi pèsonn.,Vous ne le voyez pas puisque vous n’avez aucun différend avec quiconque.,15,R. Confiant,M.F.,289,37
 Sé dé fwan nou ka mandé.,Nous ne demandons que deux francs.,9,G.H. Léotin,M.L.,289,41
-. Ibè sé an boug ki ni an gran franchiz.,Hubert est quelqu’un d’une grande franchise,10,,,289,50
+Ibè sé an boug ki ni an gran franchiz.,Hubert est quelqu’un d’une grande franchise,10,,,289,50
 Man ka di’w an ti bagay fwanchtèman.,Laissez-moi vous parler franchement.,10,R. Confiant,M.F.,289,56
 Zot pè frédi-a manjé zo-zot anba latè la Fwans la ?,Vous craignez que le froid vous dévore les os sous la terre de France ?,17,Gwoup Rasin Kas,L. K. T.,290,3
 "Si mwen té pé chapé kò-mwen, kité péyi Fwansé-la tonbé !","Si je pouvais m’en aller, laisser le pays de français !",15,F. Thaly,L.I.,290,8
@@ -2575,7 +2569,7 @@ Sa pa zafè ! ka fè two fwet.,Ce n’est pas une affaire ! il fait trop froid.,
 I anni tjwé boug-la fwet.,Il a tué froidement le type.,5,,,291,17
 Mwen té ka fwété’y épi an branch arada.,Je le fouettais avec une branche d’arada.,12,M-Th. Lung-Fou,P. D.,291,21
 Tout moun adan bwa-a té kontan sé fwi-tala.,Tout le monde dans la forêt aimait ces fruits.,11,F. Kichenassamy,C.D.D.,291,25
-Makak té chajé an tré asou tet-li pou i alé vann fwitaj épi grenn-bwa. (G.A.T.N°2),Singe avait posé un grand panier sur sa tête afin d’aller vendre des fruits et des baies.,15,,,291,30
+Makak té chajé an tré asou tet-li pou i alé vann fwitaj épi grenn-bwa.,Singe avait posé un grand panier sur sa tête afin d’aller vendre des fruits et des baies.,15,,G.A.T.N°2,291,30
 Koulibri pran yon ti lè fwonté.,Colibri prit un petit air effronté.,12,L. Hearn,T. F. B. C.,291,40
 "« Konmen ?…atann… » Prin Sisé i fè, ka katjilé, dis mil pli nan fwon-tet li.","« Combien ?…attend… » fit Prune Sucée, en réfléchissant, le front traversé de pli.",16,I. Césaire,C. N.J.,291,44
 I fwoté kò’y kon an ti chat asou varez bel matlo’y la.,Elle se frotta comme un chaton sur la vareuse de son beau matelot.,14,G.Gratiant,F.C.,291,54
@@ -2623,7 +2617,7 @@ Sé pou i ni twa-kat loto garé douvan mézon’y.,C’est pour posséder trois-
 "Adan garenn-lan, sé konsidiré an sel disparet pran sé lapen-an.","Dans la garenne, les lapins s'étaient comme volatilisés.",13,D. Boukman,Mig.,297,22
 Chanm-mwen an pa chanm garni kanmenm.,Ma chambre n’est pas un garni.,10,G. Mauvois,M. C.,297,28
 Sé lè sé aksidan-an fet yo wè ki sé garniti fren an té izé.,Ce n’est qu’après l’accident qu’ils se sont rendus compte que les garnitures de frein sont usées.,14,,,297,32
-An tan Djab té ti gason…,A l’époque où le Diable était un petit garçon… (il y a très longtemps).,9,F. Kichenassamy,C.D.D,297,37
+An tan Djab té ti gason…,A l’époque où le Diable était un petit garçon….,9,F. Kichenassamy,C.D.D,297,37
 "Mé i té ka di, é èvek rézon, kè fok pa té fè gaspiyaj.","Mais il disait, et avec raison, qu’il ne fallait pas faire de gaspillage.",18,M-Th. Lung-Fou,C. C.,297,43
 Gaté i koumansé gaté.,C’est que cela a commencé à se gâter.,7,G. Mauvois,M.C.,297,54
 Chatou pé gaté’w.,La pieuvre peut vous nuire.,7,T. Léotin,L. L.,297,58
@@ -2723,7 +2717,7 @@ Nou té ka vini gran.,Nous devenions adultes.,10,I et H. Cadoré,Av.,308,48
 "Mé Matinik té gran, gran, gran.",Mais la Martinique était extrêmement grande.,9,F. Kichenassamy,C.D.D.,308,52
 Viv an manniè manfouben adan an gran fanmi.,Vivre de manière blasée au sein d’une famille aisée.,8,,,308,56
 "Gran Fodfwans, boug-la ka maché tout ou-ni.","En plein Fort-de-France, ce type marche complètement nu.",7,,,309,3
-. taille ; grandeur Matinik pa ni grandè.,La taille de la Martinique est infime.,12,G. de Vassoigne,F..K.,309,6
+Matinik pa ni grandè.,La taille de la Martinique est infime.,12,G. de Vassoigne,F..K.,309,6
 Gadé grandè yich-ou.,Regardez l’âge qu’a votre enfant.,7,G. Mauvois,M. C.,309,10
 Sé pou zot grandi bien é pou zot toujou rété dé bon ich kon sa.,C’est afin que vous grandissiez bien et que vous demeuriez toujours de bons enfants.,19,M-Th. Lung-Fou. C.,C.,309,20
 Wotè ek londjè sé vag-la ka grandi anmizi-anmizi van-an ka vini fò.,La hauteur et la longueur des vagues s’agrandissent à mesure que le vent devient fort.,15,S. Restog,Lam.,309,24
@@ -2739,7 +2733,12 @@ I té ka dòmi kay gran-matant li.,Il dormait chez sa grande-tante.,11,G-H. Léo
 An konpwann ou té ja pli gran-neg ki sa !,Je te croyais beaucoup plus adulte !,13,Monchoachi,K. L.,310,36
 "An jou, yo enki baré an gran-nonm épi man tann yonn di : ""Waché chimiz-li !"".","Un jour, ils barrèrent la route à un homme âgé et j'entendis l'un d'eux s'écrier : ""Arrachez-lui sa chemise !"".",16,R. Confiant,Bitak.,310,40
 "Rivé Kaz-Pilot, gran-papa'y té ka vini jwenn li anlè balkadè.","Arrivé à Case-Pilote, son grand-père venait le chercher à l'embarcadère.",17,I et H. Cadoré,S. D. M.,310,48
-boug-la.,"De Saint-Anne à Grand-Rivière, une mer de femmes, un océan de femmes baignait la vie de cet homme.",4,R. Davidas,Ch.,311,3
+"Finot sé an gran-moun, chivé’y blan kon koton.","Finotte est une personne âgée, elle a les cheveux tout blancs comme du coton.",11,D. Boukman,Mig.,310,25
+"Dwet kon an pitjet asou chouval-li, épi an ti manniè gran-neg ki té lakay-li.","Roide sur son cheval, avec cet air prétentieux qu'il avait.",14,G-H. Léotin,M. V.,310,30
+An konpwann ou té ja pli gran-neg ki sa !,Je te croyais beaucoup plus adulte !,13,Monchoachi,K. L.,310,36
+"An jou, yo enki baré an gran-nonm épi man tann yonn di : ""Waché chimiz-li !"".","Un jour, ils barrèrent la route à un homme âgé et j'entendis l'un d'eux s'écrier : ""Arrachez-lui sa chemise !"".",16,R. Confiant,Bitak.,310,40
+"Rivé Kaz-Pilot, gran-papa'y té ka vini jwenn li anlè balkadè.","Arrivé à Case-Pilote, son grand-père venait le chercher à l'embarcadère.",17,I et H. Cadoré,S. D. M.,310,48
+"Dépi Sentàn rivé jik Gran-Riviè, an lanmè fanm, an loséyan madanm té ka benyen lavi boug-la.","De Saint-Anne à Grand-Rivière, une mer de femmes, un océan de femmes baignait la vie de cet homme.",4,R. Davidas,Ch.,311,3
 Fiwmen té ké ni pou di ki sé té gran-tonton’y.,Firmen devrait avouer qu’il s’agissait de son grand-oncle.,15,G. Mauvois,K. L. K.,311,17
 Fanmiy doubout pa grap.,"Des familles debout, en grand nombre.",7,G. Gratiant,F.C.,311,28
 Yo té ka fè grap pou misié.,Ils lui préparaient des grappes.,7,,,311,38
@@ -2832,7 +2831,7 @@ Kolé iskotch anlè djol-zot.,Collez-vous les lèvres avec du ruban adhésif.,7,
 Tout ti istwa madjendjen.,Toutes les petites histoires sans importance.,7,S. Restog,M.N.,325,9
 "Kisiswa sa i yé a, itilizé pawoka pou ou benyen.","Quoiqu’il en soit, utilisez du paroka pour le bain.",13,R. Confiant,M.F.,325,27
 Sé dwétet Izidò ki kasé kod.,C’est peut-être Isidore qui s’est échappé.,8,Monchoachi,B.B.Z.,325,37
-. déjà Bazil ka véyé malérez-la. Sé paré i ja paré pou chayé’y.,La mort guette la malheureuse. Elle est déjà fin prête à l’emporter.,16,D. Boukman,Mig.,326,10
+Déjà Bazil ka véyé malérez-la. Sé paré i ja paré pou chayé’y.,La mort guette la malheureuse. Elle est déjà fin prête à l’emporter.,16,D. Boukman,Mig.,326,10
 Fok i té chayé dlo pou plen dé gran ja tou lé jou.,Il fallait qu’il transporte de l’eau afin de remplir deux grandes jarres tous les jours.,16,F. Kichenassamy,C.D.D.,326,14
 Fok kabéché anpil san jaché chivé an mil.,Il faut beaucoup réfléchir sans se couper les cheveux en quatre.,12,M. Lebielle,F. N.,326,18
 Ti Toma ki té né - man té oubliyé di’w sa - épi an ti jachot an lanmen’y.,Petit Thomas qui était né - j’avais oublié de vous le dire - avec une hachette à la main.,18,I. Césaire,C. N.J.,326,25
@@ -2962,7 +2961,7 @@ Ni an fanm ki lonj é anba lonbwaj an gran joupa.,Il y a une femme allongée à 
 Noel kon sa sé an joy bel moman.,"Noël comme cela, c'est un sacré beau moment.",12,M. Lebielle,F. N.,339,42
 Si sé Joseph oben Piè ki non moun-lan.,Si la personne s’appelle Joseph ou Pierre.,11,R. Confiant,M.F.,339,46
 I té kon an Juif éran.,Il ressemblait à un Juif errant.,9,R. Davidas,Ch.,339,55
-I matjé tou sa i té ka òbsèvé anlè tan-an dépi 7 juiyé jik rivé 28 désanm 1751.,"(S. Restog, Lam.)",18,,,339,59
+I matjé tou sa i té ka òbsèvé anlè tan-an dépi 7 juiyé jik rivé 28 désanm 1751.,"Il nota toutes ses observations sur le temps depuis le 7 juillet jusqu'au 28",18,S. Restog, Lam.,339,59
 Fout monkonpè jwa bomaten-an !,Qu’est-ce que notre homme est joyeux ce matin !,5,,,340,6
 Sé pa di met a pié ki té ké opozé yo jwé.,Ce ne sont pas dix mètres à pied qui les auraient empêchés de jouer.,16,Jid,Ant. n° 1193,340,11
 Kité jwé-a an ti moman.,Laisse tomber le jeu un instant.,10,G. de Vassoigne,F. K.,340,17
@@ -3039,7 +3038,7 @@ Zig-li a tiré an kalech adan mab-mwen an.,Son tir a arraché un éclat à ma bi
 I té sa péché épi zen épi kalen.,Il savait pécher avec des hameçons et des nasses de rivière.,12,M-Th. Lung-Fou,P. D.,351,31
 I jik fè kalennda pa tout bò.,Il dansa même la calenda de tous côtés.,11,T. Léotin,L. L.,351,35
 "An kwazé chimen, an kalfou lavi a, ni an manzel ki toujou ka dansé.","A la croisée des chemins, aux carrefours, il y a toujours une demoiselle qui danse.",14,N. Cage-Florentiny,H. N.,351,39
-I ka ba’w an kali.,"Cela vous donne un cancer à la matrice. (H. Atine, A.S.D.)",5,,,351,45
+I ka ba’w an kali.,"Cela vous donne un cancer à la matrice.",5,H. Atine,A.S.D.,351,45
 "Sé tianmay-la, adan tout balan-yo, ka fè mwen ped kalibich.","Les enfants, dans leur élan, me font perdre l'équilibre.",13,Jean Bernabé,Matin.,352,2
 "Ni chien-fanm ki ni milé ek révolvè, kontel jérè labitasion ek koumandè kaliè.","Il y a des coureurs de jupons qui possèdent des mulets et des revolvers, comme les géreurs d'habitation et les contremaîtres baiseurs.",13,R. Davidas,Ch.,352,7
 "Si’w pa ni sa, pa konté trapé pies model travay kalifié.","Si vous ne possédez pas cela, n’espérez trouver aucun travail qualifié.",14,J. Florentiny,D.,352,24
@@ -3085,7 +3084,7 @@ Bwa bon anni pou kannay.,Les bois sont bons seulement pour la canaille.,8,F. Mar
 Patat tjuit dan let épi sik é fey kannel.,Des patates douces cuites dans du lait avec du sucre et des feuilles de cannelle.,14,I. et H. Cadoré,S.D.M.,358,8
 Mé Ti Jan ni kannif-li an poch-li.,Mais Ti Jean a son canif dans sa poche.,13,C. Colombo,T. J. M. L.,358,15
 Nou jwé kannik yonn épi lot.,Nous avons joué aux billes ensemble.,9,G. Mauvois,M.C.,358,22
-kanno-a té tou antravè.,Le canot était complètement de travers.,7,F. Kichenassamy,C.D.D.,358,28
+Kanno-a té tou antravè.,Le canot était complètement de travers.,7,F. Kichenassamy,C.D.D.,358,28
 "Jòdi-a kanpania ni loto, ni radio.","Aujourd’hui, les campagnards possèdent des voitures, la radio.",8,G.Gratiant,F.C.,358,44
 Man ka wè pipiri blé an tan lontan otila kanpech té ka fè tilili. an savann.,Je vois les aubes bleues du temps jadis quand les campêchiers foisonnaient dans les savanes.,16,Jean Bernabé,Matin.,358,54
 Pa ni anlo étidian asou kanpis-la sé jou-tala.,Il n’y a pas beaucoup d’étudiants sur le campus ces jours-ci.,8,,,359,2
@@ -3214,7 +3213,7 @@ I té ka fè émision kiltirel anlè radio-a.,Il faisait des émissions culturel
 To pa sré kité tonbé fwomaj-to dan djol yon lot.,Tu n’aurais pas laissé ton fromage tomber dans la bouche d’autrui.,12,F.Marbot,Bamb.,375,40
 Kivédi jik tan i mò.,C’est-à-dire jusqu’à sa mort.,8,R. Confiant,K.Y.,375,50
 Chak pawol té ka tonbé épi klakman pat-li kon lè ou ka bat kat.,Chacune des paroles s’accompagnait d’un claquement de pattes semblable à un battement de cartes.,18,T. Léotin,L. L.,376,7
-"Lè vizou-a ké bien chofé, yo ké voyé'y adan an bidim dékantè","(J. Etienne, Trib. Ant. n° 47) Lorsque le vesou aura bien été chauffé, il sera envoyé dans un énorme décanteur",14,oben,klarifikatè-a,376,20
+"Lè vizou-a ké bien chofé, yo ké voyé'y adan an bidim dékantè","Lorsque le vesou aura bien été chauffé, il sera envoyé dans un énorme décanteur",14,J. Etienne, Trib. Ant. n° 47,376,20
 Klarinet-la ka palé kréyol.,La clarinette parle le créole.,7,G. Gratiant,F.K.Z.,376,26
 I té ka vwéyajé an prèmiè klas.,Elle voyageait en première classe.,11,T. Léotin,L. L.,376,30
 "Ka fè nwè, sa pa ayen, i pa bizwen wè klè.","Il fait noir, cela ne fait rien, il n’a pas besoin de voir clair.",16,G. de Vassoigne,M. N.,376,40
@@ -3248,7 +3247,7 @@ Si i ka kité lézot klouwé lang-li.,S’il laisse les autres lui clouer la lan
 Bef-la pa pli lwen ki dèyè klwazon-an.,Le bœuf n’est pas plus éloigné que derrière la cloison.,11,G. Mauvois,M. M.,379,44
 I di lé chef té chwazi bel ti fi-a ki té ni fey bannan alantou kò’y.,Il déclara que les chefs avaient choisi la jolie petite fille qui avaient des feuilles de Bananier autour du corps.,16,F. Kichenassamy,K. D. D.,379,53
 Sa ki fè I désidé di chapé kò’y.,Aussi décida-t-il de s’en aller.,13,F. Kichenassamy,K. D. D.,380,3
-konpè kòbo té vòlè yon bel gwo fwomaj tet-mò.,Compère Corbeau avait volé un beau et gros fromage tête de mort.,12,F. Marbot,Bamb.,380,11
+Konpè kòbo té vòlè yon bel gwo fwomaj tet-mò.,Compère Corbeau avait volé un beau et gros fromage tête de mort.,12,F. Marbot,Bamb.,380,11
 I koché an menm tant palfrinié.,Il est cocher et palefrenier en même temps.,11,I et H. Cadoré,Av.,380,19
 Yo ka koché chouval-yo pou yo pé kasé lakwout.,Ils attachent leurs chevaux afin de casser la croûte.,15,C. Colombo,T. J. M. L.,380,23
 Ou sé yanm fré ki koutla pè kòché.,Tu es l’igname fraîche que le coutelas craint d’écorcher.,11,A. Jouanakaéra,Anth.,380,28
@@ -3290,7 +3289,7 @@ Adan an bel wob kip a té kokozaloy.,Dans une belle robe qui n’était pas déf
 I té wouvè koko-zié’y.,Il avait ouvert les yeux.,7,G.H. Léotin,M.L.,385,11
 Gadé ti pwason kolan tala.,Regarde-moi ce petit collant.,9,T. Léotin,L. L.,385,16
 Pou yo té sa viré-désann nan tjou sé kolbòkò-a nan mitan lavil-la.,Afin qu’ils descendent à l’assaut des flics au centre-ville.,15,R. Confiant,Maris.,385,20
-mandja et du kadichidwon) Nou manjé kalalou épi kolbou.,Nous avons mangé du calalou et du colbou.,8,G. Gratiant,F.K.Z.,385,25
+Nou manjé kalalou épi kolbou.,Nous avons mangé du calalou et du colbou.,8,G. Gratiant,F.K.Z.,385,25
 Adliz té ka wè Neg ka tonbé bò’y kon mouch ki kolé anlè vè lanp.,Adelise voyait des gens tomber auprès d’elle comme des mouches collées au verre d’une Lampe.,18,R. Confiant,Maris.,385,29
 Sé pa pou sa yo pa ka woulé kolé.,Cela ne les empêche pas de rouler tout près les uns des autres.,13,J-F. Liénafa,L. L.,385,35
 I té voyé sé gad-la pou té kolé sé twa zanmi-a.,Il avait envoyé les gardes afin d’attraper les trois amis.,14,F. Kichenassamy,C.D.D.,385,39
@@ -3318,7 +3317,7 @@ Kwayans-tala partajé pa tout kominoté-a.,Cette croyance est partagée par tout
 Yo ka fè kon an komisè lalwa.,Ils font comme des commissaires..,13,C. Colombo,T. J. M. L.,388,18
 An rad laprèmiè kominion ki té anlè komod-li.,Un vêtement de première communion qui se trouvait sur sa commode.,10,R.Confiant,K.Y.,388,26
 Pon-taa ka pòté non komotif-la.,Ce pont porte le nom du train.,10,J. Massolin,N. K. M.,388,32
-". Kon délégasion pati, i ri plen bouden'y.","Lorsque la délégation partit, il rit tout son saoul.",13,G. Mauvois,K. L. K.,388,38
+"Kon délégasion pati, i ri plen bouden'y.","Lorsque la délégation partit, il rit tout son saoul.",13,G. Mauvois,K. L. K.,388,38
 "Adan tet-li, ni sis kòn bef.","Sur la tête, il porte six cornes de bœufs.",9,G. Gratiant,F.C.,388,42
 "Onézim, an sel bagay i enmen, sé konba kok épi latmosfè pit-la.",Onésime n’aime qu’une seule chose : les combats de coq et l’atmosphère des gallodromes.,12,I. et H. Cadoré,S.D.M.,388,48
 Yo té pè rantré adan tjek konba-djol épi’y.,Ils craignaient d’avoir une prise de bec avec lui.,11,R. Confiant,Maris.,388,55
@@ -3361,7 +3360,7 @@ Konmet trapé chivé blan.,Les comètes en ont eu des cheveux blancs.,8,T. Léot
 Manniè sé yon konmision yo mal fè chè ti doudou.,"Peut-être qu'il s'agit d'un message mal transmis, ma petite chérie.",16,L. Hearn,T. F. B. C.,393,42
 "Konmisionnè lapenn, koumandè lapléré.","Commissionnaire de la peine, contremaître des pleurs.",8,G-H. Léotin,M. V.,393,48
 "Fanm ka konminié, ka bwè wonm, ka pléré.","Femmes qui communient, boivent du rhum, injurient.",11,S. Restog,T.P.P.,393,52
-lakay-li.,"Alors, il m’expliqua comme quoi je viendrais chez lui seulement deux fois par mois.",4,R. Confiant,Maris.,394,2
+Kifè i koumansé espitjé mwen konmkwé sé anni dé fwa pa mwa man té ké vini lakay-li.,"Alors, il m’expliqua comme quoi je viendrais chez lui seulement deux fois par mois.",4,R. Confiant,Maris.,394,2
 Men konmva Wozalien sé an neg ki konnet zafè fontjè.,Mais comme Rosalien est un homme qui connait les histoires de cœur.,14,R. Confiant,K. Y.,394,7
 I konnet anpil sèkrè.,Il connaît beaucoup de secrets.,10,C. Colombo,T. J. M. L.,394,12
 "Pa ni konpa, pa ni bigin, pa ni mazouk.","Pas de compas, pas de biguine, pas de mazurka.",13,J-F. Liénafa,L. L.,394,21
@@ -3397,7 +3396,7 @@ Lwen mwen ka konséyé zot alé.,Je vous conseille de vous en aller au loin.,9,F
 "Alow, an jou, wa-a rasanblé tout konséyé épi tout gad-li.","Alors, un jour, le roi rassembla tous ses conseillers et ses gardes.",14,M-Th. Lung-Fou,C. C.,397,32
 "Sé konsians-ou ki ka di’w sa ki mal, sa ki bien.",C’est votre conscience qui vous indique ce qui est mal et ce qui est bien.,15,G. de Vassoigne,F..K.,397,40
 I mété an lajan konsidérab anlè tab-la pou té pwan kay-la.,Il a mis une somme considérable sur la table pour s’emparer de la maison.,11,,,397,46
-Bondié pòté konsidérasion ba Abel pou sa i té fè’y kado-a.,(Bible K.) Dieu accorda une grande considération à Abel pour son offrande.,11,,,397,50
+Bondié pòté konsidérasion ba Abel pou sa i té fè’y kado-a.,Dieu accorda une grande considération à Abel pour son offrande.,11,,Bible K.,397,50
 Konsidiré i té lé antré anlè fi-a,Comme s’il voulait draguer la fille.,13,C. Colombo,T. J. M. L.,397,57
 Kòté konsila Brézil-la yé ?,Où se trouve le consulat du Brésil ?,5,,,398,11
 Man Emil sòti an chanm-lan pou kité doktè-a konsilté Chal.,Madame Emile sortit de la chambre afin de permettre au médecin de consulter Charles.,10,H. Bartéléry,T. A.,398,23
@@ -3446,7 +3445,7 @@ Men nou ké ripran konvèsasion-tala an lot jou.,Mais nous reprendrons cette con
 Sa i ni ki pa ka konvini zot ?,Qu’a-t-il pour ne pas vous convenir ?,12,G. Mauvois,M.M.,403,34
 Ni an konvwa moun ki sòti li-sid pou rivé jik dan li-nò.,Il y a un convoi de gens qui est parti du sud pour arriver jusqu'au nord.,16,Jid,Ant. n° 1197,403,45
 Man pa ka bay koraj.,Je ne donne pas de croche-pieds.,5,,,404,7
-Yo menm monté an koral.,"Ils ont même monté une chorale. (M-Th. Lung-Fou, P. D.)",5,,,404,12
+Yo menm monté an koral.,"Ils ont même monté une chorale.",5,M-Th. Lung-Fou, P. D.,404,12
 "Noé té, an tan'y, an nonm korek épi dwet an zafè'y.","Noé, fut en son temps, un homme correct et intègre.",13,Bible,K.,404,20
 I désidé di véyé pou tjenbé moun-la é ba’y an koreksion.,Il décida de surveiller afin d’attraper la personne et de lui donner un correction.,14,M-Th. Lung-Fou,P.D.,404,24
 Té ka mantjé dé korektè bonmaten-an.,Il manquait deux correcteurs ce matin.,6,,,404,32
@@ -3462,20 +3461,20 @@ I ni tout kalté jip nwè épi kòsaj blan.,Elle possède toutes sortes de jupes
 Alow sa té ka kosioné an san andidan timanmay-la.,Alors cela provoquait un caillot de sang chez l’enfant.,11,H.Atine,A.S.D.,405,26
 I wè konpè Lapen épi an bel kosko anlè'y.,Il vit compère Lapin qui portait un beau costume.,12,R. Confiant,Maris.,405,30
 Ou té dwet ba’y an bon dité kosol.,Tu aurais dû lui donner une bonne tisane de corossol.,11,R. Confiant,Maris.,405,35
-"Nan sé lokazion-tala, i té ka kostaré.","Dans ces occasions-là, il se vêtait d’un costume. (R. Confiant, K.Y.)",7,,,405,40
+"Nan sé lokazion-tala, i té ka kostaré.","Dans ces occasions-là, il se vêtait d’un costume.",7,R. Confiant, K.Y.,405,40
 I kosté anlè an plaj fet épi sab blan.,Il accosta sur une plage de sable blanc.,14,I et H. Cadoré,Mat.,405,44
 I té ka asiré kò’y si pon-an té kosto.,Il s’assurait que le pont était costaud.,12,T. Léotin,L.L.,405,54
 Chak koté yo tonbé yo ka ba Matinik bos.,"Partout où ils tombent, ils infligent des bosses à la Martinique.",12,T. Léotin,L.L.,406,4
 "Ou ké fè twa pa an ariè, twa pa asou koté.","Tu feras trois pas en arrière, trois pas sur le côté.",17,C. Colombo,T. J. M. L.,406,9
 Ou key ni pou rivé pa koté’y.,Tu devras atteindre son domicile.,10,G. Mauvois,M.M.,406,13
 "Manman-Dlo ek Maskilili ki té ni an timoun volè, kotjen, mantè…","La sirène de rivière et le gnome qui avaient un enfant voleur, tricheur, menteur…",11,F. Kichenassamy,C.D.D.,406,24
-Davwè i konpwann Wozalien té ka kotjiné.,"Parce qu’il croyait que Rosalien trichait. (R. Confiant, K.Y.)",7,,,406,31
+Davwè i konpwann Wozalien té ka kotjiné.,"Parce qu’il croyait que Rosalien trichait.",7,(R. Confiant, K.Y.,406,31
 I di i tann an poul chanté kotkotkodet.,Il dit avoir entendu glousser une poule qui venait de pondre.,14,C. Colombo,T. J. M. L.,406,41
 "Niyaj ki ka rété tou tan yonn, ki ka sanm koton oben chivé fen épi long.",Des nuages très isolés qui ressemblent à du coton ou à des cheveux fins et longs.,16,S. Restog,Lam.,407,8
 Sé kou ka tonbé anlè’w.,On vous roue de coups.,11,C. Colombo,T. J. M. L.,407,13
 Kou-taa yo pa rantré adan pies vidé.,"Cette fois-ci, ils ne rejoignirent aucun défilé de carnaval.",12,I. et H. Cadoré,S.D.M.,407,17
 "Yon bon kou, lou-la wè kou konpè-li plimen.","Soudain, le loup vit que le cou de son ami était pelé.",11,F. Marbot,Bamb.,407,22
-koub an tout sans.,Des courbes partout.,9,I. et H. Cadoré,S.D.M.,407,30
+Koub an tout sans.,Des courbes partout.,9,I. et H. Cadoré,S.D.M.,407,30
 I désinen an larel koub an sab-la.,Il dessina une ligne courbe sur le sable.,7,,,407,34
 Ou sèten Adliz pa ka koubaré’w ?,Tu se sûr qu’Adelise ne te prend pas de vitesse ?,9,R.Confiant,Maris.,407,40
 Jis tan lanmè-a tounen an gran koubouyon lalin.,Jusqu’à ce que la mer se transforme en un vaste court-bouillon.,11,G. Gratiant,F.K.Z.,408,7
@@ -3496,7 +3495,7 @@ An fenfon koukoun fanm.,Au tréfond des vagins.,7,D. Boukman,Mig.,409,24
 An lasi blenm té ka koulé an kal zié’y.,Une cire blanche coulait de ses paupières.,11,R.Confiant,K.Y.,409,41
 I té santi yo pa té ké pé tjenbé lontan avan yo koulé.,Il avait senti qu'ils ne pouvaient plus tenir très longtemps avant de couler.,17,H. Bartéléry,T. A.,409,45
 "Jou ka kouché, kou ka koulé.","Les jours se couchent, les jours s’écoulent.",12,C. Colombo,T. J. M. L.,409,49
-"Ti fi ki asou ban lékol ka fè koulé épi misié. C. Rosemain, T. M. B. C.)",Des écolières flirtent avec des messieurs.,17,,,409,53
+"Ti fi ki asou ban lékol ka fè koulé épi misié.",Des écolières flirtent avec des messieurs.,17,C. Rosemain, T. M. B. C.,409,53
 Kouli-a té montré’y an bon enpé sigré’y.,L’indien lui avait enseigné beaucoup de ses secrets.,9,R.Confiant,K.Y.,410,13
 An bel ti Kouli-blan ki té ni di-zuit lanné anlè tet-li.,Une jolie métisse d’Indienne et de Blanc créole âgée de dix-huit ans.,15,R. Confiant,K. Y.,410,34
 Tou red kon yon koulivikou.,Aussi dur qu’une couleuvre.,8,F. Marbot,Bamb.,410,43
@@ -3668,8 +3667,8 @@ Man pa kwè man key ni tan rivé labouchri.,Je ne crois pas que j’aurai le tem
 Chak moun té ni an laboukàn lakay-li ki té ka brilé nuit kon jou.,Chacun avait chez soi un foyer qui restait allumé de jour comme de nuit.,14,R. Confiant,J. D. D. B.,433,20
 I té ka labouré tè lè i té faché.,Il labourait le sol lorsqu’il était fâché.,14,G. de Vassoigne,Fab K.,433,27
 Boug-tala té an mal labourè lè i té jenn.,Cet homme était un vaillant laboureur quand il était jeune.,9,,,433,33
-"ttm. Man ni an labourè, dé sirvéyans, dé ékout épi kat apiyé, an balansié ?","Je possède un laboureur, deux surveillant, deux écoutes et quatre appui, un balancier ?",15,,,433,38
-ttm. Man ni an labourè men i ka fè yen ki tras nwè ?,J’ai un laboureur mais il ne fait que des traces noires ?,14,,,433,43
+"Man ni an labourè, dé sirvéyans, dé ékout épi kat apiyé, an balansié ?","Je possède un laboureur, deux surveillant, deux écoutes et quatre appui, un balancier ?",15,,,433,38
+Man ni an labourè men i ka fè yen ki tras nwè ?,J’ai un laboureur mais il ne fait que des traces noires ?,14,,,433,43
 "Tou lé kat mòso li pran, mété yo dan labousak.","Tous les quatre morceaux qu’il prenait, il les mettait dans sa besace.",13,F. Marbot,Bamb.,433,51
 Yo té pé fè zafè yo dépi sa pa té fouté labowdel an zafè’w.,Ils pouvaient faire ce qu’ils voulaient dès l’instant où cela ne fichait pas le bordel dans tes affaires.,18,J.M. Rosier,An L.,433,57
 Lodians-la ki té ka sanblé Masédwàn la lè labrin-di-swè té atè.,La petite assemblée qui se réunissait à Macédoine au crépuscule.,17,R. Confiant,J. D. D. B.,434,8
@@ -3742,7 +3741,7 @@ Sé lajandamri yo té ka kriyé pa koté lannuit pou tiré’w la.,"On faisait a
 "Fo pa dèmen i antré lajol pou lapéti an vakabon, zot tann ?","Il ne faut pas que demain il entre en prison à cause d’un voyou, tu comprends ?",17,G. Mauvois,M. M.,442,56
 Lajonis tonbé anlè’y lè i té ni sét-an.,Il a attrapé la jaunisse à l’âge de sept ans.,8,,,443,2
 Lajounen kon lannuit san rété i ka bwodé dantel.,"Jour et nuit, sans s’arrêter, elle brode de la dentelle.",13,Monchoachi,B. B. Z.,443,7
-"ttm. Tout lajounen, i ni an sel konmes tiré-mété soley nan bwa ?","Toute la journée, il passe son temps à enlever-remettre le soleil dans la forêt ?",13,,,443,9
+"Tout lajounen, i ni an sel konmes tiré-mété soley nan bwa ?","Toute la journée, il passe son temps à enlever-remettre le soleil dans la forêt ?",13,,,443,9
 Mal brètè Lajoupa-Bouyon an.,Le formidable bretteur de l’Ajoupa-Bouillon.,10,R. Confiant,J. D. D. B.,443,18
 Konmen bitasion yo té vité adan lajwa kokiyok yo.,Le nombre de plantations qu’ils avaient évité dans leur joie aveugle.,12,R. Confiant,Maris.,443,23
 "Nenpot sa ki mòdé lak, ou ka mété li dan sak.",Tu enfournes dans ton sac tout ce qui mord à l’appât,14,F. Marbot,Bamb.,443,27
@@ -3760,7 +3759,7 @@ I pa ped lakat.,Il ne perdit pas son sang-froid.,10,L. Hearn,T. F. B. C.,444,40
 Sa té an tan Sen-Piè avan lakatastwof.,C’était à l’époque de Saint-Pierre avant l’éruption.,11,G. Gratiant,F. C.,444,46
 "Adan lakataw kaskad-la, yo tann an chanté zibié olwen.","A travers le fracas de la cascade, un chant d’oiseau qui semblait très lointain, les frappa.",14,G. Maupassant,A. D. K.,444,52
 "Lè ou ké rantré lakay ou, réfléchi asou tou sa mwen fini di’w la.","Quand tu rentreras chez toi, réfléchis à tout ce que je viens de te dire.",17,C. Boulard,Beaur.,444,56
-"Ttm. Ki sa ki lakay-ou, ou ka mété tou sa ou lé adan’y ?",Que possédez-vous chez vous dans lequel vous pouvez mettre tout ce que vous voulez ?,14,,,444,58
+"Ki sa ki lakay-ou, ou ka mété tou sa ou lé adan’y ?",Que possédez-vous chez vous dans lequel vous pouvez mettre tout ce que vous voulez ?,14,,,444,58
 Dèyè lakazenn sé la man lé mò !,C’est derrière la caserne que je veux passer mon temps !,13,G. Gratiant,F. K. Z.,445,6
 Bagay ka pwan lakilbit an pis.,C’est quelque chose qui dure le temps de la culbute d’une puce.,9,R. Confiant,Bitak.,445,19
 Pou li té alé maré lakloch-la ladan kon chat.,Afin qu’il aille attacher la cloche à l’intérieur à la manière d’un chat.,12,F. Marbot,Bamb.,445,27
@@ -3809,7 +3808,7 @@ Ton té ka vann kat sou laliv.,Le thon se vendait quatre sous la livre.,12,G. Gr
 "Si ou jwé lalotri, ou pé genyen anlo lajan.","Si tu joues à la loterie, tu peux gagner beaucoup d’argent.",9,,,449,55
 Yo té ka bay-désann Lalvé dépi Pon Démostèn.,Ils descendaient La Levée en courant depuis le Pont Démosthène.,11,R. Confiant,Maris.,450,3
 "Lalwa-yo, lawmé-yo épi polis-yo.","Leurs lois, leur armée et leur police.",7,Joby Bernabé,Konm.,450,7
-Sé akouchez-la té ka koupé lalwet timanmay-la.,"Les accoucheuses coupaient le frein de la langue de l’enfant. Selon H.Atine (Akouchèz, S.D.) : ce mot n’ a rien à voir avec la luette laquelle se trouve à l’entrée du",10,H.Atine,A. S.D.,450,17
+Sé akouchez-la té ka koupé lalwet timanmay-la.,"Les accoucheuses coupaient le frein de la langue de l’enfant.",10,H.Atine,A. S.D.,450,17
 Yo té ka fè bwi konmkwé Lalzas-Lorèn té ka pijé dri anba pat l’Almay.,Ils faisaient courir le bruit selon lequel l’Alsace-Lorraine souffrait le martyre sous le joug de l’Allemagne.,20,R. Confiant,J. D. D. B.,450,26
 Man kouri a rann lam.,J’ai couru jusqu’à rendre l’âme.,9,G. Mauvois,M. M.,450,30
 Radio-bwa-patat di sé lamafia ki tjwé’y.,La rumeur populaire affirme que c’est la mafia qui l’a tué.,6,,,450,35
@@ -3819,7 +3818,7 @@ Chimen lajénes sé pa chimen lamalonnètté.,Le chemin de la jeunesse n’est p
 Fok man di’w sé ministè Lamarin man ka travay.,Je dois vous dire que je suis employé au ministère de la Marine.,14,G. Maupassant,A. D. K.,451,5
 Mang-lan sé an bon lamatènité ba tout pwason a Bondié.,La mangrove est une bonne maternité pour tous les poissons du Bon Dieu.,14,R. Loiseau,S. L.,451,12
 Ou pé ké jwenn vié lamè’w asou latè taa ankò.,Tu ne retrouveras plus ta vieille mère sur cette terre.,16,R. Confiant,J. D. D. B.,451,22
-ttm. Fok détwi lamè pou ou pé pran lanfan ?,Il faut détruire la mère pour prendre l’enfant.,10,,,451,24
+Fok détwi lamè pou ou pé pran lanfan ?,Il faut détruire la mère pour prendre l’enfant.,10,,,451,24
 "Men sé timoun-la té ka ri di’w, laméchansté lé paran yo nan venn yo.","Mais les enfants riaient de toi, habités qu’ils étaient par la méchanceté de leurs parents.",14,J.M. Rosier,An L.,451,31
 "Yo té rivé an bwa Laméday, lwen lavil.","Ils étaient arrivés dans la forêt de la Médaille, loin de la ville.",13,G. Mauvois,K. L. K.,451,37
 "Ek Laméditérané san an sel rid anlè’y, san an sel frisonad.","Et la Méditerranée sans une seule ride, sans un frisson.",16,G. Maupassant,A. D. K.,451,41
@@ -3924,7 +3923,7 @@ Epi dé môso bwa é tibwen lapenti.,Avec deux bouts de bois et un peu de peintu
 "An lakontantman, an lapérézité oben kisasayésa.","Un contentement, une peur ou quoi que ce soit d’autre.",10,G.H. Léotin,M. L.,464,9
 Di’y lajan-an lapèsepsion.,Dites lui que l’argent se trouve à la Perception.,7,G. Mauvois,Man Ch.,464,14
 "Kantapou pè Mikabwa, lapéti-a pa ka manti.","Quand au père Micaboua, il mange de bon appétit.",13,I et H. Cadoré,C. S.,464,18
-Tou sa pou lapéti Mariyan-Tètfè,"Tout cela par la faute de Marignan Tête-en-fer (T. Léotin, L. L.)",5,,,464,21
+Tou sa pou lapéti Mariyan-Tètfè,"Tout cela par la faute de Marignan Tête-en-fer",5,T. Léotin, L. L.,464,21
 Yo ka vini koté’w trapé an lapezman.,Ils viennent à toi à la recherche de quelque apaisement.,9,Jala,A.T.K.P.,464,31
 Moun té blijé ay chaché lapia bien lwen mennen an sé lariviè-a.,Les gens étaient obligés d’aller chercher des tilapias dans les rivières.,12,T. Léotin,L. L.,464,35
 Ou sé di ou lé pwan nou sèvi pou lapidanm.,On aurait dit que vous voulez vous servir de nous comme des souffre-douleurs.,13,R. Confiant,Bitak.,464,42
@@ -3935,7 +3934,7 @@ Mé ès sé anba tè sé sa ki lapiété.,Mais est-ce que la piété c’est de 
 Epi nennenn-la alé laplas.,"Puis, la marraine se rendit au marché.",8,L. Hearn,C. C.,465,17
 "Zié’w té ka ouvè gran, akwédi laplenn-lin.","Tes yeux s’ouvrirent tout grand, comme la pleine lune.",11,J.M. Rosier,An L.,465,24
 Foda ou té di sa a laplézantri pou tout moun pwan pawol ta-a o sérié.,Il fallait que tu dises cela sur le ton de la plaisanterie pour que tout le monde prenne tes paroles au sérieux.,15,J.M. Rosier,An L.,465,32
-"ttm. Lè lapli ka tonbé, manman-mwen ka ba mwen rad ?","Quand il pleut, ma mère me donne des vêtements.",11,,,465,38
+"Lè lapli ka tonbé, manman-mwen ka ba mwen rad ?","Quand il pleut, ma mère me donne des vêtements.",11,,,465,38
 Men laplipa té sispann davwè yo pa té ni kont tjè-yo.,Mais la plupart s’étaient arrêté car ils n’avaient pas suffisamment de courage.,14,R. Confiant,Maris.,465,51
 I jété lapo bef-la.,Il a jeté la peau du bœuf.,4,,,465,55
 Kon grenn mango é lapo mango.,Comme des noyaux et des pelures de mangues.,10,G. Gratiant,F. C.,465,59
@@ -3953,7 +3952,7 @@ Ti fi-a pasé lèkzanmen lapos.,La jeune fille a réussi au concours des Postes,
 "Ek i rété pann la, ka atann laposésion lanm-lan.","Et là, il demeura accroché, attendant le défilé des vagues.",11,Monchoachi,Mant.,467,16
 "Si ou wè sé an lapostim vet ki sòti, alô, yich-mwen chè, pwan gad, pas sé djab !","Si c’est du pus verdâtre qui s’en écoule, alors, mon enfant chérie, fais attention car c’est le diable !",18,I. et H. Cadoré,S. D. M.,467,21
 "Antouléka, mwen pa lé wè pèsonn douvan lapot-mwen.","En tout cas, je ne veux voir personne devant ma porte.",11,C. Boulard,Beaur.,467,29
-"ttm. Mwen ka pasé lapot-la, mwen ni an non ; lè mwen pasé lot lapot-la, mwen pwan an lot non ?","Je passe la porte, j’ai un nom ; je passe l’autre porte, j’ai un nom.",21,,,467,31
+"Mwen ka pasé lapot-la, mwen ni an non ; lè mwen pasé lot lapot-la, mwen pwan an lot non ?","Je passe la porte, j’ai un nom ; je passe l’autre porte, j’ai un nom.",21,,,467,31
 Yo vréyé tout kalté lapotitjè-kréyol ba’y.,Ils lui envoyèrent toutes sortes de remèdes à base de simples.,10,R. Confiant,K. Y.,467,41
 Ou mèyè pwan nou dé vié lapo-zoki pa konnet vis neg oben ki sa ?,Tu nous prends peut-être pour de vieux débris qui ne connaissent pas les ruses des nègres ou quoi ?,15,R. Confiant,J. D. D. B.,467,48
 Mé li koumansé kon moun ki ni lapotrin.,Il a commencé comme quelqu’un qui a la tuberculose.,11,F. Marbot,Bamb.,467,53
@@ -4015,7 +4014,7 @@ Sé jenn négres-la ka éséyé bliyé soufwans épi lanmizè lasimenn asou mizi
 Fodé ou ni lasirans sé pa an moun ki ka bwè.,Il faudrait que vous ayez l’assurance qu’il s’agit de quelqu’un qui ne boit pas.,15,R. Confiant,M. F.,473,51
 "I ja midi, lasirèn ka kòné.","Il est déjà midi, la sirène sonne.",8,S.Restog,T.P.P.,473,59
 "Man tounen, lasirpriz anlè mwen.","Je me retournai, plein de surprise.",10,G. Maupassant,A. D. K.,474,4
-"Déwò tout moun, bet-la pri adan laso !","Dehors tout le monde, la bête est prise au lasso ! (G. Gratiant, F. K. Z.)",8,,,474,9
+"Déwò tout moun, bet-la pri adan laso !","Dehors tout le monde, la bête est prise au lasso !",8,G. Gratiant, F. K. Z.,474,9
 Lasolitid té ba’w tou sel !,Tu n’avais plus que ta solitude.,10,J.M. Rosier,An L.,474,13
 Sa té ka fè an kalté lasos blan yo té ka kriyé « blancha ».,Cela donnait une sorte de sauce blanche appelée « blanchard ».,21,R. Confiant,J. D. D. B.,474,18
 Poutji sa ? Pis ou ka fè an travay ki itil ba lasosiété ?,Pourquoi donc ? Puisque vous faites un travail utile à la société ?,18,R. Confiant,M. F.,474,26
@@ -4058,7 +4057,7 @@ Senntré adan an latriyé kay.,Coincé entre une multitude de maisons.,9,R. Conf
 Ti fanm-lan ki té mété latwoublay an tjè-mwen an lévé pou i désann.,La petit femme qui avait jeté un trouble en moi se leva pour descendre.,13,G. Maupassant,A. D. K.,478,23
 "Ladan latwoup, pwan sèjan pou montré yo manévré.","Dans la troupe, prendre des sergents pour leur apprendre à manoeuvrer.",11,F. Marbot,Bamb.,478,29
 Fok ou toujou genyen chimiz ki lavab.,Il faut toujours acheter des chemises lavables.,7,,,478,34
-"Lavé lavabo nonm, rensé lavésèl fanm","Laver le lavabo des hommes, rincer la vaisselle des femmes (G. Gratiant, F. K. Z.)",6,,,478,38
+"Lavé lavabo nonm, rensé lavésèl fanm","Laver le lavabo des hommes, rincer la vaisselle des femmes",6,G. Gratiant,F. K. Z.,478,38
 Lavalas livènaj détranpé sé mòn-la.,Les pluies torrentielles de l’hivernage ont détrempé les mornes.,10,G. Gratiant,F. K. Z.,478,46
 Lot lavalas té ka pòté.,L’autre portait un ample pardessus de toîle,8,F. Marbot,Bamb.,478,50
 Akondi sé lavaliè mal maré.,Comme une lavallière mal nouée.,8,M. Orel,Anth.,478,54
@@ -4093,7 +4092,7 @@ Sé pa sa ki ka lé plis travay.,Ce ne sont pas ceux qui travaillent le plus.,10
 Chak lè i pasé fo i gadé an fondok biwo-a.,"Chaque fois qu’il passe, il lui faut regarder au fond du bureau.",14,G. Mauvois,M. M.,482,47
 Yo té ka respiré titak lè.,Ils respiraient un peu d’air.,10,T. Léotin,L. L.,482,52
 "Lébann mizérab, lébann sanzavé.","Bande de misérables, bande de voyous.",10,R. Confiant,J. D. D. B.,482,58
-"Lèmal kon lèbien ! Sé dapré koumandman i ka risivwè. ‘R. Confiant, M. F.)",Le mal comme le bien ! Cela dépend des commandements qu’il reçoit.,14,,,483,7
+"Lèmal kon lèbien ! Sé dapré koumandman i ka risivwè.",Le mal comme le bien ! Cela dépend des commandements qu’il reçoit.,14,R. Confiant, M. F.,483,7
 "I tonbé asou woch Lakaravel, i tiré an lech asou’y.",Il tomba sur le Rocher de la Caravelle et lui enleva un petit morceau.,14,E. Clew-Parson,Folk. Ant.,483,11
 "Vié lodè zôdi yo, vyé gaz léchapman yo.","Leurs vieilles odeurs d’échappement, leurs mauvais gaz d’échappement.",13,Jala,A. T. K. P.,483,18
 Man kay gadé-wè fè’w kado an léchel.,Je me débrouillerai pour que tu aies une échelle.,11,H. Melon,Cri s.,483,23
@@ -4122,7 +4121,7 @@ Ayen pa fèt adan an lékol !,Rien ne s’est inventé au sein d’une école !,
 "Sé jou-tala, lékonomi péyi-a ka désann","Ces jours-ci, l’économie du pays bat de l’aile",6,,,485,52
 Ladjables sé lèkontrè i té ni.,La Diablesse possédait le contraire.,10,T. Léotin,L. L.,485,59
 Man chaché’w anlè lékos an vié mapou.,Je t’ai cherchée sur l’écorce d’un mapou vénérable,10,A. Jouanakaéra,Anth.,486,3
-Pas i té ka trapé kriz lékranpi.,"Parce qu’il était sujet à des crises d’écrampsie. (H. Atine, A. S. D.)",7,,,486,10
+Pas i té ka trapé kriz lékranpi.,"Parce qu’il était sujet à des crises d’écrampsie.",7,H. Atine, A. S. D.,486,10
 Yo ka touvé lesplikasion-an koté manman-yo.,Elles trouvent les explications auprès de leurs mères.,9,H.Atine,A. S.D.,486,16
 "Kon lektè-a ké rimatjé, tanzantan fonséyè-a ka mété yonn-dé ti mo fwansé adan kréyol-li a.","Comme le remarquera le lecteur, de temps à autre le fossoyeur introduira quelques mots de français dans son créole..",15,R. Confiant,J. D. D. B.,486,21
 Timanmay atjèman pa enmen lekti.,Les enfants d’aujourd’hui n’aiment pas la lecture.,5,,,486,29
@@ -4152,7 +4151,7 @@ Mwen jwenn Loulou atè « Lenpératris ».,J’ai rencontré Loulou à « L’Im
 Sa sé lenpo. Man za di zot pa pwan sa.,Ce sont les impôts. Je vous ai déjà dit de ne pas accepter cela.,14,G. Mauvois,M. M.,489,12
 "I ofè mwen million pou man ba’y yonn men konmva man konnet lenpowtans di sa an moun pé fè épi an tet moun-mò, man pa ba’y li.","Il m’a offert des millions pour que je lui en fournisse un mais comme je connais l’importance de ce que quelqu’un peu faire avec une tête de mort, je ne le lui ai pas donné.",17,R. Confiant,J. D. D. B.,489,20
 An ni len présion tout Karayib-la ki mò Sen-Piè a lésé malédision ba Sen-Piè.,J’ai l’impression que tous ces Caraïbes qui sont morts à Saint-Pierre lui ont légué une malédiction.,17,E. Mona,Anth.,489,27
-"Gwan moun ki rivé, épi lajan, djenyen an ti zoy lenstriksion.","Les grandes personnes qui ont réussi, grâce à l’argent, à gagner quelques miettes d’instruction. (S. Restog, Kapis.)",11,,,489,37
+"Gwan moun ki rivé, épi lajan, djenyen an ti zoy lenstriksion.","Les grandes personnes qui ont réussi, grâce à l’argent, à gagner quelques miettes d’instruction.",11,S. Restog, Kapis.,489,37
 Epi lentansion alé koupé dé-zou-twa piébwa pou fè an ti yoka.,Avec l’intention d’aller couper quelques arbres pour faire un petit four à charbon de bois.,11,F. Kichenassamy,C. P. G.,489,43
 An omaj a Sésé pou lentèlijans-li.,Un hommage à l’intelligence de Sésé.,9,E. Mona,Anth.,489,48
 Mòso tè yo za las fè lenvantè.,Bout de terre dont on n’a cessé de faire l’inventaire.,13,R. Confiant,J. D. D. B.,490,2
@@ -4173,7 +4172,7 @@ I antré lopital pou yo opéré’y lerni.,Il est entré à l’hopital pour se 
 "Makoumè, ou pa ni lésans ?","Hé, l’ami, tu n’as pas d’essence ?",14,J. Laurent et I. Césaire,C. M. Ant.,491,29
 Men lésansiel sé tizann-lan épi lok-la pou djéri bobo-a.,"Mais l’essentiel, c’est la tisane et le remède qui guérira la blessure.",14,H. Atine,A. S. D.,491,33
 Fok pa i lésé lariviè chayé lespri’y adan lanmè.,Il ne faut pas qu’il laisse la rivière entraîner son esprit jusqu’à la mer.,11,J.C.Corbin,T.P.P.,491,38
-pvb . Kout kouto an dlo pa ka lésé mak,(litt. « Coup de couteau dans l’eau ne laisse pas de traces »),10,,,491,43
+Kout kouto an dlo pa ka lésé mak,Coup de couteau dans l’eau ne laisse pas de traces,10,,,491,43
 I ka mandé lésen padon ba Mano.,Elle demande pardon aux saints pour Mano.,13,R. Confiant,J. D. D. B.,491,48
 Jou i té alé mété Sando lésision.,Le jour où elle alla inscrire Sando au catéchisme.,12,F. Kichenassamy,C. P. G.,491,55
 Evè on lésivez labitasion Détouwno yo té ka kriyé Noémiz.,Avec une lavandière de la plantation Destourneaux appelée Noémise.,16,R. Confiant,J. D. D. B.,492,5
@@ -4198,7 +4197,7 @@ Sé diektè-a li-menm ki rimet li tou sa anlè lestrad-la.,C’est le directeur 
 "E, léswè, lé sa té rivé sonmey té garé’w.","Et le soir, quand il arrivait que le sommeil s’empara de vous.",11,Monchoachi,K.L.,493,56
 Lapo’y té kon let tounen.,Sa peau était couleur de lait qui tourné.,9,M.-Th. Lung-Fou,P. D.,494,2
 Mwen bizwen pati pòté let-mwen.,Il me faut m’en aller porter mes lettres.,9,G. Mauvois,M. Ch.,494,6
-"ttm. Ou mété an let isi, i ka rivé an Fwans ?","Vous déposez une lettre ici, elle arrive en France.",12,,,494,8
+"Ou mété an let isi, i ka rivé an Fwans ?","Vous déposez une lettre ici, elle arrive en France.",12,,,494,8
 Tanbou soley ké tonbé léta.,Le tambour du soleil tombera d’évanouissement,8,D. Boukman,Anbaf.,494,14
 Gadé léta lanmen-mwen !,Regarde l’état de mes mains !,6,D.Boukman,Déliv.,494,19
 Yo di sé an létab.,Ils déclarèrent qu’il s’agissait d’une étable.,10,G. de Vassoigne,M. K.,494,25
@@ -4277,7 +4276,7 @@ Epi lodè lisouf té ka pwonmnen pa la.,Et une odeur de soufre en émanait.,12,T
 I ka lévé jou bomaten la san yon lisou.,Elle se lève ce matin-là sans un sou en poche.,13,L. Hearn,C. C.,502,39
 Pou an lit lèt sa té kat sou.,"Pour un litre de lait, on payait quatre sous.",13,G. Gratiant,F. K. Z.,502,47
 Anfen sé an sèl litanni.,"Enfin, toute une litanie éclata.",10,G. de Vassoigne,Fab K.,502,51
-Fok lité pou gadé’y. (Jala,Il faut lutter pour le garder.,9,A. T. K.,P.,502,57
+Fok lité pou gadé’y.,Il faut lutter pour le garder.,9,Jala,A. T. K. P.,502,57
 I pa djè konnèt litérati anglé-a.,Il ne connaît guère la littérature anglaise.,6,,,503,8
 "Avan i chapé an Fwans, i litjidé tou sa i té ni.","Avant de s’en aller en France, il a liquidé tout ce qu’il possédait.",12,,,503,21
 Yo pa ni asé liv pou yo alé lékol.,Ils n’ont pas suffisamment de livres pour aller à l’école.,14,Jala,A. T. K. P.,503,25
@@ -4310,7 +4309,7 @@ Estèbèdem di wè tout sé mòso kann-lan ka tonbé menm londjè.,Abasourdi de 
 "Manmay, fok miziré londjè lanmizè.","Les amis, il faut mesurer l’étendue de notre misère.",11,R. Confiant,J. D. D. B.,506,58
 "I long, lavi’w ké long.",Elle est longue donc ta vie sera longue.,8,S. Restog,Anth.,507,3
 M’a ba’w dé bon longan.,Je vous donnerai deux bons remèdes.,8,F. Marbot,Bamb.,507,10
-"ttm. Mwen lonjé », i doubout ; mwen doubout, i lonjé ?","Je suis allongé, il est debout ; je suis debout, il est allongé ?",12,,,507,17
+"Mwen lonjé », i doubout ; mwen doubout, i lonjé ?","Je suis allongé, il est debout ; je suis debout, il est allongé ?",12,,,507,17
 Kiles moun sa ki lonjé an ti lanmen soukou ba’w ?,Qui donc t’a tendu une main secourable ?,17,R. Confiant,J. D. D. B.,507,23
 "Mé sa ki pé dan an lonmlet an lélé bat, séparé jôn-la épi blan-a ?",Mais qui peut séparer le jaune du blanc dans une omelette bien battue ?,15,G. Gratiant,F. K. Z.,507,31
 Nonm-tala mérité lonnè épi respé.,Cet homme mérite honneur et respect.,8,R. Confiant,Maris.,507,39
@@ -4355,7 +4354,6 @@ Talè loyé ké tonbé anlè mwen.,"Bientôt, le loyer me tombera dessus.",9,J. 
 Es ou lôz manfouté di lôd man bay ?,Oseriez-vous vous moquer des ordres que j’ai donnés ?,11,G.Mauvois,Ant.,511,44
 "Epi m-a vann pwéson fri, lozi, zaboka, mango.","Ensuite, je vendrai du poisson frit, des marinades, des avocats, des mangues.",11,F. Marbot,Bamb.,511,49
 Alé chèché an lit luil ba manman.,Va chercher un litre d’huile pour ta mère.,12,G. de Vassougne,F. K.,511,56
-luil doliv 2,". impeccable, parfait",3,,,512,3
 Solèy ka krachédifé anlè luiloud-la.,Le soleil illuminait l’asphalte.,5,,,512,11
 Nou rivé anlè an lawout luiloudé.,Nous avons atteint une route asphaltée.,10,R. Confiant,M. F.,512,15
 I mété an lwa déwò pou chak lafen lanné.,Il prit une loi pour chaque fin d’année.,14,F. Kichenassamy,C. P. G.,512,20
@@ -4380,7 +4378,6 @@ Fonmi fou ka maché vit.,Les fourmis folles marchent vite.,8,E. Pézo,Port.,514,
 Ou sé di té ni plis machè lanné-tala.,On aurait dit qu’il y a davantage de marcheurs cette année.,8,,,515,10
 "Travay pou machin, chomaj pou moun.","Du travail pour les machines, du chômage pour les hommes.",10,J-F. Liénafa,L. P.,515,15
 "Té ni etsétéra pos radio, machin-a-koud, fétou, rad, boutey.","Il y avait un grand nombre de postes de radio, de machines à coudre, de fait-tout de vêtements, de bouteilles.",12,R. Confiant,Maris.,515,19
-machin a Man Dèdè,. (iron.) sexe de la femme,4,,,515,22
 Gadé mwen tou flègèdè adan kasil nati-mwen akondi an douvan-jou kanyan ka machonnen zeb.,Regarde-moi si chétive dans la capsule de mon sexe telle une aube maladive mâchonnant de l'herbe.,5,Jean Bernabé,Matin.,515,29
 Met Sonson Dèlawoz té alé asiz anlè mach-pié légliz-la.,Monsieur Sonson Delarose était allé s’asseoir sur le parvis de l’église.,13,J.M. Rosier,A. L.,515,34
 Machwè’y té séré.,Il avait les mâchoires serrées.,8,F. Kichenassamy,C. P. G.,515,40
@@ -4443,7 +4440,7 @@ Makriyo meg épi zié krab.,Du maquereau maigre avec des yeux de crabes.,10,G. G
 I ka respiré mal,Il respire mal,9,F. Kichenassamy,C. P. G.,522,51
 "Lézot toujou pli mové, lézot ka fè moun mal.","Les autres sont toujours pires, les autres s'adonnent à la sorcellerie.",14,Jala,A. T. K. P.,523,3
 Sa ki rivé Bèbèn ? I malad ?,Qu’est-il arrivé à Bèbène ? Est-il malade ?,12,G. Mauvois,M. M.,523,16
-Maladi gaté vayan,(lit. La maladie gâte les vaillants) La maladie frappe même les gens les plus robustes,3,,,523,24
+Maladi gaté vayan,La maladie gâte les vaillants,3,,,523,24
 Yo té ka di sa sa yé djoubaké ba Bétjé an chan malavwa.,Ils racontaient ce que c'est que de travailler pour les Békés dans les champs de canne-malavoi.,17,G-H. Léotin,M. V.,523,29
 An gran mal-chien kon’w ou bò kay manman’w toujou.,Un grand dépendeur d’andouilles de ton espèce habite encore chez sa mère.,12,R. Confiant,Bitak.,523,43
 "Sé lè ou té ka wè Neg Djinen ka vann piay pou djéri mal-dan, oben tjenbwa pou mal-damou.",C'est à ce moment-là qu'on voyait les Nègres bon teint vendre des potions pour guérir les maux de dents ou des fétiches contre le mal d'amour.,5,G-H. Léotin,M. V.,523,48
@@ -4464,7 +4461,7 @@ Sé ras ki ni plis malfentiz anba bouden'y.,C'est la race qui cache le plus de s
 Moun té ka gayé kon jibié ki wè malfini.,Les gens se dispersaient comme des oiseaux qui ont aperçu un mensfenil.,12,R. Confiant,Bitak.,525,42
 "Etièn pa malgach, sé l’End i sòti.","Etienne n’est pas malgache, il vient de l’Inde.",7,,,525,47
 "Manmay, tansion mové siyak malkadi !","Amis, prenons garde aux entourloupes du haut-mal !",12,R. Confiant,J. D. D. B.,525,51
-"An jou apré an jounen travay red, lamè Souséka trapé malkadi. (M. Desroses-","Bottius, Tér.) Un jour, après une rude journée de labeur, la mère Souséka fut prise d’un malaise.",13,,,525,55
+"An jou apré an jounen travay red, lamè Souséka trapé malkadi.,Un jour, après une rude journée de labeur, la mère Souséka fut prise d’un malaise.",13,M. Desroses-Bottius, Tér.,525,55
 Sé pas sé twop chonjé i ka rété chonjé adan ki balan malkonduit yo ja pwan'y sèvi.,C'est parce qu'il se rappelle beaucoup trop de toutes ces mauvaises conduites à propos desquelles il a été pris sur le fait.,5,Monchoachi,B. B. Z.,526,7
 I trapé mal-machwè davwè an klou wouyé pitjé’y.,Il a attrapé le tétanos parce qu’un clou rouillé l’a piqué.,8,,,526,12
 Ti gason réponn li bien malman kon sa.,Le petit garçon lu répondit difficultueusement.,14,L. Hearn,T. F. B. C.,526,17
@@ -4491,11 +4488,11 @@ Mamoukatji pa ni plas yo isiya.,Les nains n’ont pas leur place ici.,6,,,528,30
 Es zot sav dépi ki lè man la ?,Savez-vous depuis quelle heure je suis ici ?,13,G. Mauvois,M. C.,528,34
 Gwo gwo dézonnè-a ki ka kasé tout manb-ou ba'w la.,Cet énorme déshonneur qui vous casse complètement les bras.,14,T. Léotin,L. E.,528,50
 Zot konpwann Man Chomil manchot.,Vous croyez que madame Chomule est maladroite.,9,G. Mauvois,M. C.,529,8
-"Mé konm Chat pa manchot non pli, i plonjé anlè bagay-la osi. (F. Kichenassamy,","C. P. G.) Mais Chat n’étant pas tombé de la dernière pluie, il plongea dessus lui aussi.",14,,,529,12
+"Mé konm Chat pa manchot non pli, i plonjé anlè bagay-la osi.","Mais Chat n’étant pas tombé de la dernière pluie, il plongea dessus lui aussi.",14,F. Kichenassamy,C. P. G.,529,12
 I pé fè an grenn mandarin antré an tjou an moustik.,Il peut faire un pépin de mandarine pénétrer dans le cul d’un moustique.,13,J.C.Corbin,T.P.P.,529,19
 Eleksion ka rivé mé kandida’w la pòkò jwenn pies mandatè.,Les élections arrivent sans que ton candidat ait trouvé le moindre mandataire.,10,,,529,24
 Mandé nou véyé’y sé mandé twop bagay,"Nous demander de la surveiller, c’est trop demander",9,Monchoachi,Nst.,529,28
-"Epi lanmen neg ka maté fret pou mandianné siel-la on ti zizing pitié. (R. Confiant,",J. D. D. B.) Et puis des mains nègres qui mendient au ciel un peu de pitié,15,,,529,32
+Epi lanmen neg ka maté fret pou mandianné siel-la on ti zizing pitié.,Et puis des mains nègres qui mendient au ciel un peu de pitié,15,R. Confiant,J. D. D. B.,529,32
 Atitid-li té tibwen two mandiannè,Il avait une attitude un peu trop mendiante,5,,,529,37
 Yonn adan yo ni an mandolin pann an do’y.,L’un d’eux a une mandoline suspendue à son dos.,12,J. Florentiny,Dod.,529,43
 "Manévré, manévré, lalimonnad dèyè !",Manœuvrez ! Manœuvrez ! La limonade est à l’arrivée !,11,I et H. Cadoré,C. B.,529,47
@@ -4565,7 +4562,7 @@ Markè blé a pa ka ékri ankò.,Le marqueur bleu n’écrit plus.,7,,,538,23
 Pas ti zanmi-a té ka fè an masak.,Parce que notre cher ami faisait un massacre.,13,F. Kichenassamy,C. P. G.,538,35
 "Masé zépol-mwen ba mwen, souplé !","Masse-moi les épaules, s’il te plaît !",6,,,538,41
 Pou té touvé an ti swen pou ayen pa koté sé masè-a.,Afin d'obtenir quelque soin gratuit chez les sœurs.,16,H. Bartéléry,T. A.,538,45
-Lanmò-a doubout bitasion woch nwè’y adan kabann masibol-nou.,"(Monchoachi, Nst.)",8,,,538,54
+Lanmò-a doubout bitasion woch nwè’y adan kabann masibol-nou.,"La mort campa son royaume de granit dans nos lits d’amants.",8,Monchoachi, Nst.,538,54
 Yo té ka masié soley-la.,Ils masquaient le soleil.,7,R.Confiant,K.Y.,539,5
 "Eti té ni lédjim kon titiri, konkonm, masisi, pastek.","Où il y avait une multitude de légumes comme des concombres, des...., des pastèques.",14,Jala,A. T. K. P.,539,24
 "Dan lang fwansé a, maskilen ka pwan pa avan féminen.","ns la langue française, le masculin l'emporte sur le féminin.",14,T. Léotin,L. E.,539,28
@@ -4682,7 +4679,7 @@ Dé métié ki met : métié biwo épi métié labé.,Les deux métiers les plus
 Man ké di i pa ni pies valè davwè i pa ka sèvi métod lasians.,Je dirai qu'il n'a aucune valeur car il n'utilise pas les méthodes de la science.,15,S. Restog,Lam.,553,50
 Mwen té ka rété mwens an mwens épi ti métres-mwen a.,J'étais de moins en moins avec ma petite maîtresse.,16,I et H. Cadoré,Av.,554,8
 "E kon tout moun té pè’y, yo té ka kriyé’y met-savann lan.","Et comme tout le monde le craignait, on l’appelait le maître de savane",17,G. de Vassoigne,F. K.,554,16
-"Nou ni metsiyen épi luil nwa kajou, ki vitriyol. (G. Gratiant",Nous avons du mancenillier et de la noix de cajou qui valent du vitriol.,14,F. K.,Z.,554,30
+"Nou ni metsiyen épi luil nwa kajou, ki vitriyol.",Nous avons du mancenillier et de la noix de cajou qui valent du vitriol.,14,G. Gratiant,F. K. Z.,554,30
 Nou pa lé métwo dan péyi-a.,Nous ne voulons pas de Métropolitains dans le pays.,12,M. Elisée-Désir,T. M. B. C.,554,36
 "Lot bò dlo, pabò métwo, pa ka fè cho.","De l'autre côté de l'océan, du côté du métro, il ne fait pas chaud.",13,M. Lebielle,F. N.,554,42
 Tout moun-lan lé chapé an métwopol.,Tout le monde veut s’en aller en France.,6,,,554,46
@@ -4702,7 +4699,7 @@ Anlè miklon lanmè Lans Koulev la.,Très loin au large de l’Anse Couleuvre.,1
 Mwen ké ba'w mil fwan pou sa.,Je te donnerai mille francs pour cela.,13,L. Hearn,T. F. B. C.,556,42
 "Menm pou pwan milan, nou ka ba kò-nou lapenn.","Même pour échanger des commérages, nous nous sommes décarcassées.",13,T. Léotin,L. L.,556,47
 Man rété ka milanné la an bon dé-twa tan ankò.,Je suis resté là à échanger des commérages pendant pas mal de temps encore,13,R. Confiant,Bitak.,556,51
-Sé anni koté di-zè Filomèn té ka rijwenn ti konpanyi milannez la.,"(R. Confiant, Maris.)",12,,,556,55
+Sé anni koté di-zè Filomèn té ka rijwenn ti konpanyi milannez la.,"Ce n'est que vers dix heures que Philomène rejoignait le petit groupe de commères.",12,R. Confiant, Maris.,556,55
 Man kay kònen’w épi an milat.,Je vais te tromper avec un mulâtre,10,G. Mauvois,M. M.,557,6
 I té konpwann milatray-la té ké asepté’y.,Il s’imaginait que la mulâtraille l’aurait accepté.,7,,,557,11
 "I tiré milé, i mété traktè.",Il a remplacé les mulets par des tracteurs.,10,G. Mauvois,A. K.,557,19
@@ -4734,7 +4731,7 @@ Man ka ba'y an derlé dé-twa minit.,Je lui donne un délai de quelques minutes.
 "Annou pa ped tan, minitri-a pété.","Ne perdons pas de temps, la minuterie est cassée.",6,,,559,52
 "Pabò minui, Odjis lévé kò’y ek pati.","Aux alentours de minuit, Auguste se réveilla et partit.",12,F. Kichenassamy,C. P. G.,560,3
 An mirak pies moun pa pé konpwann.,Un miracle que nul ne parvient à comprendre.,12,G. Gratiant,F. K. Z.,560,7
-"Ka séré kay sè'y, ka lonjé tout miray pou i pa tonbé asou Viktorin. (H. Bartéléry,","T. A.) Se cachant chez sa sœur, rasant les murs pour ne pas tomber sur Victorine.",16,,,560,11
+"Ka séré kay sè'y, ka lonjé tout miray pou i pa tonbé asou Viktorin.","Se cachant chez sa sœur, rasant les murs pour ne pas tomber sur Victorine.",16,H. Bartéléry,T. A.,560,11
 Mirisman bannann-lan ka fèt adan sé kontènè-a.,Le mûrissement de la banane se fait à l’intérieur de la banane.,7,,,560,21
 An ti mis san pou an ti mis lavi.,Une petite musse de sang pour une petite musse de vie.,12,Joby Bernabé,Konm.,560,32
 "Té ni misié Klotè, i té ka travay tè.",Il y avait monsieur Clotaire qui travaillait la terre.,14,T. Léotin,A. T. Z.,560,40
@@ -4770,7 +4767,7 @@ Fodré i té mayé épi an mizisien.,Il aurait fallu qu’elle se marie à un mu
 Délè osi ni pli gwo mo.,Parfois aussi sortent de plus gros mots.,11,G. de Vassoigne,F. K.,563,44
 I ké ouvè jistan mwen mò.,Il restera ouvert jusqu'à ma mort.,9,C. Boulard,Beaur.,563,48
 Mwen ka mò pou manjé zibié.,Je meurs d'envie de manger du gibier.,12,L. Hearn,T. F. B. C.,563,51
-lannuit asou chimen tiraj.,J'appartenais à une bande de gamins qui gonflait des mobylettes de fortune pour leur faire faire des rodéos nocturnes.,7,J-M. Rosier,Lk.,564,3
+Man té adan an létjip mouskouyon ki té ka gonflé mobilet zo-kok pou fè yo kouri lannuit asou chimen tiraj.,J'appartenais à une bande de gamins qui gonflait des mobylettes de fortune pour leur faire faire des rodéos nocturnes.,7,J-M. Rosier,Lk.,564,3
 Lanm lanmè ka mòdé sé woch-la dan lanmè.,Les vagues mordent les rochers de la mer.,13,G. Gratiant,F. K. Z.,564,15
 Man pa kwè i té ké ni model kay-la i ni a.,Je n'ai pas cru qu'il aurait le genre de maison qu'il possède.,18,Gwoup Rasin Kas,L. K. T.,564,19
 I lé ti kay modèn.,Il veut de petites maisons modernes.,10,G. Gratiant,F. K. Z.,564,25
@@ -4819,7 +4816,7 @@ Mé Adolfin té ka monté moral-li.,Mais Adolphine lui remontait le moral.,8,Mal
 Pa ni boug ki pli kouyon ki Moris.,Il n’y a pas plus bête que Maurice.,8,,,569,13
 Moris sé yonn di sé koté-a ki ni pli bel plaj anlè latè.,Maurice est l’un des endroits de la terre où il y a les plus belles plages.,13,,,569,17
 "Lè moun-la pa ka palé vit, kréyol morisien an pa red pou konpwann.","Quand la personne ne parle pas vite, le créole mauricien n’est pas difficile à comprendre",13,,,569,21
-Kontel majolé ki pa ka pran mòso palé pou plis pasé sa li yé.,"(Monchoachi, Nst. Comme les conteurs qui n'accordent pas plus de considération à la parole que ce",14,,,569,31
+Kontel majolé ki pa ka pran mòso palé pou plis pasé sa li yé.,Comme les conteurs qui n'accordent pas plus de considération à la parole que ce",14,Monchoachi,Nst.,569,31
 I pwan labalet-li ek mòso kouto’y.,Il prit sa fronde et son gros couteau.,11,F. Kichenassamy,C. P. G.,569,37
 Si ou wè tanzantan mwen pa té ka pasé lanmen an motè-a.,S’il ne m’arrivait pas de temps à autre d’examiner le moteur.,16,V. Placoly,D. J.,569,42
 Siman-an ka fann pas ou pa bat mòtié-a bien.,Le ciment se fendille parce que tu n’as pas bien battu le mortier.,9,,,569,46
@@ -4831,7 +4828,7 @@ Jijé-wè lè mouchach lablanni dépi nanninannan.,Allez voir quand la moussache
 "Zanndoli ka fè kous, mouch-an-miel an travay.","Des lézards jouent à la poursuite, des abeilles sont à la tâche.",12,Jala,A. T. K. P.,570,28
 I té las ka mouché kò’y adan an vié mouchwè.,Il ne cessait de se moucher dans un vieux mouchoir.,10,,,570,35
 Mwen va gangnen bel mouchwè.,J’achèterai de beaux mouchoirs.,8,F. Marbot,Bamb.,570,39
-"Sa fet an tan nanninannan, an tan moulen-a-van ek moulen-a-bef. (M. Desroses-","Bottius, Tér.) Cela s’est passé il y a très longtemps, du temps des moulins à vent et des moulins à",12,,,570,49
+"Sa fet an tan nanninannan, an tan moulen-a-van ek moulen-a-bef.","Cela s’est passé il y a très longtemps, du temps des moulins à vent et des moulins à boeufs.",12,M. Desroses-Bottius,Tér.,570,49
 Ki manniè ou ka chwézi tel moun-mò pasé tel lot moun-mò ?,Comment choisissez-vous tel mort plutôt que tel autre ?,16,R. Confiant,M. F.,571,7
 Moun lavwézinay té ké di i sé an mouri-difen.,Les gens du voisinage diraient qu’il est un crêve-la-faim,13,R. Confiant,K. Y.,571,12
 Mousé-tala pres ni gou chanpay.,Ce mousseux a presque le goût du champagne.,5,,,571,30
@@ -4845,7 +4842,7 @@ An komin ki té ni an patjé mouvman.,Une commune qui avait beaucoup d'activité
 Lanmè-a té two mouvmanté pou nou té ay benyen.,La mer était trop mouvementée pour que nous puissions aller nous baigner.,9,,,572,37
 I asiz adan sab mouyé a.,Il s’est assis dans le sable mouillé.,12,I et H. Cadoré,C. S.,572,41
 "Gason-an mové, alow ?",Ce garçon est donc mauvais ?,8,G. Mauvois,M. M.,573,6
-"Rété malpalé moun, rété fè movezté (Jala","Cessez de médire d’autrui, cessez de faire des méchancetés",11,A. T. K.,P.,573,13
+"Rété malpalé moun, rété fè movezté","Cessez de médire d’autrui, cessez de faire des méchancetés",11,Jala,A. T. K. P.,573,13
 Kon anpami lézom ki mowtel.,Comme parmi les hommes qui sont des mortels.,8,G. Mauvois,Antig.,573,26
 "Lanmanniè kò-a an mozolé-a, ou ka sav lamenm sé an moun Mòn Péwou ki mò.","A la façon dont le corps est exposé dans la chapelle ardente, vous savez que c'est un habitant de Morne Pérou qui est décédé.",15,J. Massolin,N. K. M.,573,35
 Epi sa misié ka ba mwa pa mwa.,Avec ce que ce type donne mois par mois.,12,V. Placoly,D. J.,573,43
@@ -4905,7 +4902,7 @@ Man ka wè siel néyé an dlo.,Je vois des cieux noyés d’eau.,10,Jean Bernab�
 Anbonnè sé yen ki tibolonm man ni.,Heureusement que je n'ai que des garçons.,10,R. Confiant,Maris.,582,4
 "I palé mwen di chaj i pòté anlè tet-li, pié ni.","Il me parla des charges qu'il avait portées sur la tête, pieds nus.",16,J. Liénafa,Y. S. R.,582,13
 "Lè mwen lakanpann, piébwa plen épi nich.","Quand je suis à la campagne, les arbres sont couverts de nids.",7,,,582,19
-An boutey tet-maré 62° ki té ka fè yo tou lé dé nika.,Une bouteille de rhum à 62+ qui les narguait tous les deux.,17,T. Léotin,L. E.,582,44
+An boutey tet-maré 62° ki té ka fè yo tou lé dé nika.,Une bouteille de rhum à 62° qui les narguait tous les deux.,17,T. Léotin,L. E.,582,44
 "Yo ba li an pies nikel, i pwan li pou yon pies ann’ò.","On lui a donné une pièce en nickel, il l’a prise pour une pièce en or.",16,V. Coridun,Carn.,582,48
 Lontan sé fonmi-an obliyé niméwo lapot kay-yo.,Il y a longtemps que les fourmis ont oublié le numéro de la porte de leurs maisons.,11,J-F. Liénafa,L. P.,582,52
 An ninang-fannang batizé doubout.,Un rustre qui n’ a été baptisé qu’à l’âge adulte.,6,M.Th.Lung-fou,3.B.F.,583,4
@@ -4917,7 +4914,7 @@ Nonm-lan ka miyonnen an mas ba ti niyes-mwen an.,Ce type peaufine un masque pour
 Dikanman’w pli nob oubien pli responsab ki tan mwen ?,Ton style de vêtements est-il plus noble ou plus responsable que le mien ?,12,Maloulou,D.,583,36
 "« Jwé, non ! » Rigobè rété i ladjé.","« Joue, bon sang ! » finit par dire Rigobert.",12,R. Confiant,Maris.,583,42
 Sé Omè ki nonm-mwen !,C’est Homère mon amoureux !,8,R. Confiant,Maris.,583,48
-Yo ké ba koté-a non moun-lan.,"On donnera à l'endroit le nom de la personne. (J. Massolin, N. K. M.)",6,,,584,6
+Yo ké ba koté-a non moun-lan.,"On donnera à l'endroit le nom de la personne.",6,J. Massolin,N. K. M.,584,6
 Ni an sèten nonb reg pou préparé an rafréchisman.,Il existe un certain nombre de règles pour préparer un rafraîchissement.,12,H.Atine,A. S.D.,584,11
 Kiles ki pli nonbré : kavo oben tonm ?,Lesquels sont les plus nombreux : les caveaux ou les tombes ?,13,R. Confiant,M. F.,584,16
 "Epi lè nonm-lan pati, espéré wou yonn nan ti kay-la.","Et une fois l’homme parti, attendre seule dans la petite maison.",13,R. Confiant,Maris.,584,20

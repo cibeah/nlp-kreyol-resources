@@ -32,7 +32,7 @@ def is_indicator(word):
     """
     Check whether word is indicator
     """
-    return word.strip(" ();.") in INDICATORS
+    return word.strip(" ();") in INDICATORS
 
 
 #TODO: add separate run to handle 'rép.' and 'pvb.' translations
@@ -107,8 +107,6 @@ def create_raw_dataset(path_in, path_out):
                                 source = result.group(3).strip()
                             # If there is still no source, it might be on the next line
                             # the translation should then be on the line after
-                            # Breaks if an example takes on two FULL lines with the source on a
-                            # third line, but this should not happen
                             elif (i+2 < num_page_items) and not (page_data[i+2]["is_bold"]):
                                 result = re.search(ZOOMIN_SOURCE_PATTERN, next_line["text"])
                                 if result is not None:
@@ -127,8 +125,8 @@ def create_raw_dataset(path_in, path_out):
                             translation += " " + page_data[i+translation_line+1]["text"].strip()
 
                         data.append({
-                                "text": text.strip(' ".'),
-                                "translation": translation.strip(' ".'),
+                                "text": text.strip(' "'),
+                                "translation": translation.strip(' "'),
                                 "num_words": line["num_words"],
                                 "author": author,
                                 "source": source,
@@ -140,27 +138,70 @@ def create_raw_dataset(path_in, path_out):
     # Create DataFrame and save as csv
     pd.DataFrame(data).to_csv(path_out, index=False)
 
-def clean_dataset(path_in, path_out):
-    df = pd.read_csv(path_in)
+def get_source_like_item(text):
+    item = None
+    search = re.search("\((.+)\)", text)  
+    if search is not None:
+        item = search.group(1).strip()
+    # Also look for truncated parentheses
+    else:
+        search = re.search("\((.+)$", text)
+        if search is not None:
+            item = search.group(1).strip(" ,-")
+        else:
+            search = re.search("(.+)\)", text)
+            if search is not None:
+                item = search.group(1).strip(" ,-")
+    return item
 
+
+def check_dataset(path_in):
+    """
+    Logs list of sentences to be cleaned
+    """
+    df = pd.read_csv(path_in)
     # get unique sources
     sources = df.source.unique()
     authors = df.author.unique()
-
+    text_types = ["text", "translation"]
     # check for parentheses - might be badly extracted data
-    for iline, line in df[df.text.str.contains("\(")].iterrows():
-        search = re.search("\((.+)\)", line["text"])  
-        if search is not None:
-            item = search.group(1).strip()
+    check_parentheses = df["text"].str.contains("[\(\)]") | df["translation"].str.contains("[\(\)]")
+    check_bad_start = df["text"].str.contains("^[^A-Z]")
+    problems = df[check_parentheses | check_bad_start]
+    for iline, line in problems.iterrows():
+        item = get_source_like_item(line["text"])
+        log = f"Line {str(iline)}. \n    In text  :"
+        if item in sources:
+            log += f"{item} in sources"
+        elif item in authors:
+            log += f"{item} in authors"
         else:
-            search = re.search("\((.+)$", line["text"])
-            if search is not None:
-                item = search.group(1)
-        print(item)
-        source_search = re.search("\((.+)\)", item)  
-    df.to_csv(path_out, index=False)
+            log += f"{item} - no correspondance"
+        log += "\n    In translation  :"
+        item = get_source_like_item(line["translation"])
+        if item in sources:
+            log += f"{item} in sources"
+        elif item in authors:
+            log += f"{item} in authors"
+        else:
+            log += f"{item} - no correspondance"
+        print(log)
+    return problems.shape[0]
 
-path_in = Path("PATH_TO_PDF")
-path_out = Path("datasets/dictionnaire-confiant/confiant_mqc.csv")
-# create_raw_dataset(path_in, path_out)
-clean_dataset(path_out, path_out.parent / (str(path_out.stem) +  "_clean" + path_out.suffix))
+def write_bibtexts(path_in, path_out):
+    path_out.mkdir(parents=True, exist_ok=True)
+    df = pd.read_csv(path_in)
+    with open(path_out / "train.mart1259", "w", encoding="utf-8") as f:
+        f.write("\n".join(list(df["text"].str.strip(' "').values)))
+    with open(path_out / "train.fra", "w", encoding="utf-8") as f:
+        f.writelines("\n".join(list(df["translation"].str.strip(' "').values)))
+
+if __name__ == "__main__":
+    path_in = Path("../nlp-kreyol/dico_creole_a_n__confiant_avant_publi_papier.pdf")
+    path_out = Path("datasets/dictionnaire-confiant/confiant_mqc.csv")
+    path_clean = path_out.parent / (str(path_out.stem) +  "_clean" + path_out.suffix)
+    path_bibtext = path_clean.parent / "bibtext"
+    # create_raw_dataset(path_in, path_out)
+    # num_anomalies = check_dataset(path_clean)
+    # print(num_anomalies, "anomalies detected")
+    write_bibtexts(path_clean, path_bibtext)
