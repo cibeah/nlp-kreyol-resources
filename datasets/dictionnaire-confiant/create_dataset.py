@@ -15,7 +15,8 @@ INDICATORS = [
     "iron.","lit.","masc.", "mél.", "n. sc.", 
     "néol.","on.", "péj.","pvb.","r.", "st-l.",
     "syn.","tam.","var.",
-    "Dictionnaire", "sue.", "port."
+    "Dictionnaire", "sue.", "port.", "iron.", "ex.", 
+    "lit.", "rép.", "it.", "all."
 ]
 
 SOURCE_PATTERN = '(.+) ?\((.+), (.+)\)'
@@ -35,6 +36,9 @@ def is_indicator(word):
     """
     return word.strip(" ();") in INDICATORS
 
+
+#TODO: add separate run to handle 'rép.' and 'pvb.' translations
+
 data = []
 with pdfplumber.open(path) as pdf:
     for id_page, page in enumerate(pdf.pages):
@@ -48,7 +52,10 @@ with pdfplumber.open(path) as pdf:
             if (char["y0"] < last_line_y - CHARACTER_HEIGHT) or (char["y0"] > last_line_y + CHARACTER_HEIGHT):
                 # If last line had bold chars, add it as an extracted sentence
                 text = "".join(char_aggreg).strip()
-                words = text.split(" ")
+                # clean spaces
+                words = [word for word in text.split(" ") if word.strip()]
+                text = " ".join(words).strip()
+
                 num_words = len(words)
                 has_indicator = any([is_indicator(word) for word in words])
                 page_data.append({
@@ -57,7 +64,7 @@ with pdfplumber.open(path) as pdf:
                     "num_words": num_words,
                     "is_bold": has_bold_letters,
                     "is_example": has_bold_letters and (num_words>2) and not has_indicator,
-                    "is_indication": has_bold_letters and has_indicator,
+                    "is_indication": has_indicator, # has_bold_letters
                     "is_word": has_bold_letters and (num_words==1),
                     "is_source": re.search(SOURCE_PATTERN, text) is not None
                 })
@@ -73,21 +80,17 @@ with pdfplumber.open(path) as pdf:
             char_aggreg.append(char["text"])
         
         # Extract data for examples and translations
-
-        for i in range(len(page_data)-1):
+        num_page_items = len(page_data)
+        for i in range(num_page_items-1):
             if page_data[i]["is_example"]:
                 line, next_line = page_data[i], page_data[i+1]
                 if not (next_line["is_bold"] | (next_line["num_words"]<2)):
                     text, author, source = line["text"], None, None
-                    translation = next_line["text"]
+                    translation_line = 1 #translation starts on next line 
                     # If the previous line was also an example, consider
                     # it a single example
                     if (i > 1) and (page_data[i-1]["is_example"]):
                         text = page_data[i-1]["text"] + " " + text
-                        # and assume the translation might also be
-                        # on 2 lines (maybe not optimal)
-                        if (i+2 < len(page_data)) and not (page_data[i+2]["is_bold"]):
-                            translation = translation + page_data[i+2]["text"]
 
                     # Look for a source
                     result = re.search(SOURCE_PATTERN, text)
@@ -106,16 +109,26 @@ with pdfplumber.open(path) as pdf:
                         # the translation should then be on the line after
                         # Breaks if an example takes on two FULL lines with the source on a
                         # third line, but this should not happen
-                        elif (i+2 < len(page_data)) and not (page_data[i+2]["is_bold"]):
+                        elif (i+2 < num_page_items) and not (page_data[i+2]["is_bold"]):
                             result = re.search(ZOOMIN_SOURCE_PATTERN, next_line["text"])
                             if result is not None:
                                 author = result.group(1).strip()
                                 source = result.group(2).strip()
                                 translation = page_data[i+2]["text"]
+                                translation_line = 2
+                    
+                    # add 1 or 2 lines of translation after source 
+                    translation =  page_data[i+translation_line]["text"]
+                    if (
+                        (i+translation_line+1 < num_page_items) 
+                        and not (page_data[i+translation_line+1]["is_bold"])
+                        and not (page_data[i+translation_line+1]["is_indication"])
+                    ):
+                        translation += " " + page_data[i+translation_line+1]["text"].strip()
 
                     data.append({
                             "text": text,
-                            "translation": translation,
+                            "translation": translation.strip(),
                             "num_words": line["num_words"],
                             "author": author,
                             "source": source,
