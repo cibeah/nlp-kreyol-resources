@@ -16,6 +16,8 @@ TRANSLATION_LANGS = ["fra", "eng"]
 parser = argparse.ArgumentParser(description='create dataset from tatoeba data')
 parser.add_argument('--offline', action="store_true", 
                     help='Read data from local .tsv files')
+parser.add_argument('--bitext', action="store_true", 
+                    help='Read data from local .tsv files')
 
 
 def get_sentences_from_api(lang, translation_langs=TRANSLATION_LANGS, max_items=int(1e5), max_word_count=100):
@@ -95,15 +97,36 @@ def get_sentences_from_tsv(lang, root_path, link_path, translation_langs=TRANSLA
     df = df.drop(["from", "to", "variable"], axis=1)
     return df
 
+def write_bitexts(path_in, path_out, lang_out=["fra", "eng"]):
+    path_out.mkdir(parents=True, exist_ok=True)
+    df = pd.read_csv(path_in)
+    to_escape = ["\u202f"]
+    for lang in lang_out:
+        data = df.loc[~pd.isna(df[f"sentence_{lang}"]), ["sentence", f"sentence_{lang}"]].drop_duplicates()
+        for char in to_escape:
+            data["sentence"] = data["sentence"].str.replace(char, " ")
+            data[f"sentence_{lang}"] = data[f"sentence_{lang}"].str.replace(char, " ")
+        data = data.drop_duplicates()
+        (path_out / f"gcf--{lang}").mkdir(parents=True, exist_ok=True)
+        with open(path_out / f"gcf--{lang}" / "train.gcf", "w", encoding="utf-8") as f:
+            f.write("\n".join(list(data["sentence"].str.strip(' "').values)))
+        with open(path_out / f"gcf--{lang}" / f"train.{lang}", "w", encoding="utf-8") as f:
+            f.writelines("\n".join(list(data[f"sentence_{lang}"].str.strip(' "').values)))
+
 if __name__ == "__main__":
     args = parser.parse_args()
-    if args.offline:
-        df = get_sentences_from_tsv(
-            lang="gcf", root_path=ROOT_DATA, link_path=LINK_PATH,
-            translation_langs=TRANSLATION_LANGS
+    # if args.offline:
+    #     df = get_sentences_from_tsv(
+    #         lang="gcf", root_path=ROOT_DATA, link_path=LINK_PATH,
+    #         translation_langs=TRANSLATION_LANGS
+    #     )
+    # else:
+    #     df = get_sentences_from_api(lang="gcf", max_word_count=100)
+    # df.to_csv("tatoeba_gcf.csv", index=False)
+    if args.bitext:    
+        write_bitexts(
+            Path("datasets/tatoeba/tatoeba_gcf.csv"), 
+            Path("datasets/tatoeba/bitext"), 
+            lang_out=["fra"]
         )
-    else:
-        df = get_sentences_from_api(lang="gcf", max_word_count=100)
-    df.to_csv("tatoeba_gcf.csv", index=False)
-
 
