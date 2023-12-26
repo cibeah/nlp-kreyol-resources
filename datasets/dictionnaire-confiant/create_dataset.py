@@ -188,10 +188,11 @@ def check_dataset(path_in):
         print(log)
     return problems.shape[0]
 
-def write_bibtexts(path_in, path_out):
+def write_bitexts(path_in, path_out):
     path_out.mkdir(parents=True, exist_ok=True)
     df = pd.read_csv(path_in)
-    with open(path_out / "train.mart1259", "w", encoding="utf-8") as f:
+    df = df[["text", "translation"]].drop_duplicates()
+    with open(path_out / "train.mart", "w", encoding="utf-8") as f:
         f.write("\n".join(list(df["text"].str.strip(' "').values)))
     with open(path_out / "train.fra", "w", encoding="utf-8") as f:
         f.writelines("\n".join(list(df["translation"].str.strip(' "').values)))
@@ -200,8 +201,8 @@ if __name__ == "__main__":
     path_in = Path("../nlp-kreyol/dico_creole_a_n__confiant_avant_publi_papier.pdf")
     path_out = Path("datasets/dictionnaire-confiant/confiant_mqc.csv")
     path_clean = path_out.parent / (str(path_out.stem) +  "_clean" + path_out.suffix)
-    path_bibtext = path_clean.parent / "bibtext"
+    path_bitext = path_clean.parent / "bitexts"
     # create_raw_dataset(path_in, path_out)
     # num_anomalies = check_dataset(path_clean)
     # print(num_anomalies, "anomalies detected")
-    write_bibtexts(path_clean, path_bibtext)
+    write_bitexts(path_clean, path_bitext)
