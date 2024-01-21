@@ -1,45 +1,21 @@
-### Dataset creation from Tatoeba
+### Tatoeba
 
-```
-cd datasets/tatoeba
+Guadeloupean Creole-French-English sentence triplets retrived from [Tatoeba](https://tatoeba.org)
 
-python create_dataset.py
-OR python create_dataset.py --offline
-```
+Files:
 
-#### Online (better)
+- `triplets_gcf_fra_eng.csv`, original CSV file with columns:
+    * `id`: sentence ID on Tatoeba
+    * `lang`: language ID on Tatoeba (== `gcf`)
+    * `sentence`: sentence in Guadeloupean Creole
+    * `sentence_fra`: translation in French
+    * `sentence_eng`: translation in English
 
-Creates dataset from API request to `https://tatoeba.org/eng/api_v0`.
-```
-python create_dataset.py
-```
+*Note*: When several translations are available in or two languages, each possible translation triplet corresponds to a new row.
 
-#### Offline
+- `pairs_gcf_fra.csv`, CSV file with columns:
+    * `sentence`: sentence in Guadeloupean Creole
+    * `sentence_fra`: translation in French
 
-For datasets downloaded from [https://tatoeba.org/fr/downloads](https://tatoeba.org/fr/downloads)
-
-* ``ROOT_DATA`` = path to root folder with downloaded datasets
-* ``LINK_PATH`` = path to base .tsv file linking translation pairs (`sentences_base.tar.bz2`)
-* ``TRANSLATION_LANGS`` = [list of downloaded languages for translation pairs]
-
-*Example*:
-
-```
-TRANSLATION_LANGS = ["eng", "fra"]
-```
-
-Folder structure:
-```
-ROOT_DATA
-├── eng
-│   ├── sentences.tsv
-├── fra
-│   ├── sentences.tsv
-├── gcf
-│   ├── sentences.tsv
-```
-
-Command:
-```
-python create_dataset.py --offline
-```
+- `bitexts/*`, TXT files with the Creole-French sentence pairs in bitext format
+    * `train\test\eval.*`: train, test, and eval splits
